@@ -1,0 +1,2553 @@
+{
+	"jobs": [{
+		"data": {
+			"slug": "20203886",
+			"language": "en-us",
+			"languages": ["en-us", "es-mx"],
+			"title": "Hotel Cleanliness Expert",
+			"description": "Posting Date Jan 09, 2021 Job Number 20203886 Job Category Housekeeping & Laundry Location The St. Regis Deer Valley, 2300 Deer Valley Drive East, Park City, Utah, United States VIEW ON MAP Brand St. Regis Hotels & Resorts Schedule Full-Time Relocation? N Position Type Non-Management Located Remotely? N The St. Regis brand first established luxury hospitality more than 110 years ago, with the opening of the St. Regis New York. From the moment John Jacob Astor IV opened the doors of his Beaux-Arts masterpiece on New York’s Fifth Avenue, St. Regis has stood as a symbol of uncompromising elegance and bespoke service. Today, with more than 40 of the best addresses around the world, St. Regis is a place where trends are born, boundaries are broken and guests can simply live exquisite. We invite you to explore careers at St. Regis. Job Summary Inspect guest rooms, public areas, pool, etc. after being cleaned by Housekeeper to ensure quality standards. Run sold room reports, verify room status, determine discrepant rooms, prioritize room cleaning, and update status of departing guest rooms. Assist Housekeeping management in managing daily activities. Act as a liaison to coordinate the efforts of Housekeeping, Engineering, Front Office, and Laundry. Document and resolve issues with discrepant rooms with the Front Desk. Prepare, distribute, and communicate changes in room assignments. Communicate issues to next shift. Complete required paperwork. Assist management in hiring, training, scheduling, evaluating, counseling, disciplining, and motivating and coaching employees. Follow all company and safety and security policies and procedures; report any maintenance problems, safety hazards, accidents, or injuries; complete safety training and certifications. Ensure uniform and personal appearance are clean and professional; maintain confidentiality of proprietary information; protect company assets. Welcome and acknowledge all guests according to company standards; anticipate and address guests’ service needs; assist individuals with disabilities; thank guests with genuine appreciation. Speak with others using clear and professional language. Develop and maintain positive working relationships with others; listen and respond appropriately to the concerns of other employees. Ensure adherence to quality expectations and standards. Move, lift, carry, and place objects weighing less than or equal to 55 pounds without assistance and in excess of 55 pounds with assistance. Ability to push and pull a loaded housekeeping cart and other work-related machinery over sloping and uneven surfaces. Reach overhead and below the knees, including bending, twisting, pulling, and stooping. Stand, sit, kneel, or walk for an extended period across an entire work shift. Grasp, turn, and manipulate objects of varying size and weight, requiring fine motor skills and hand-eye coordination. Enter and locate work-related information using computers and/or point of sale systems. Read and visually verify information in a variety of formats (e.g., small print). Perform other reasonable job duties as requested by Supervisors. MIRJ Marriott International is an equal opportunity employer. We believe in hiring a diverse workforce and sustaining an inclusive, people-first culture. We are committed to non-discrimination on any protected basis, such as disability and veteran status, or any other basis covered under applicable law.",
+			"location_name": "The St. Regis Deer Valley",
+			"street_address": "2300 Deer Valley Drive East",
+			"city": "Park City",
+			"state": "Utah",
+			"country": "United States",
+			"country_code": "US",
+			"postal_code": "84060",
+			"location_type": "LAT_LNG",
+			"latitude": 40.6381283,
+			"longitude": -111.4770938,
+			"additional_locations": [{
+				"city": "Park City",
+				"state": "Utah",
+				"country": "United States",
+				"country_code": "US",
+				"latitude": 40.6381283,
+				"longitude": -111.4770938
+			}],
+			"categories": [{
+				"name": "Housekeeping & Laundry"
+			}],
+			"tags": ["05SUJ"],
+			"brand": "St. Regis Hotels & Resorts",
+			"recruiter_name": "IRA BECTON",
+			"promotion_value": 0,
+			"experience_levels": ["Full-Time"],
+			"benefits": ["VISION", "SICK_DAYS", "DOMESTIC_PARTNER", "VACATION", "DENTAL", "LIFE_INSURANCE", "PARENTAL_LEAVE", "RETIREMENT_PLAN", "MEDICAL"],
+			"industry": "Hospitality",
+			"hiring_organization": "St. Regis Hotels & Resorts",
+			"hiring_organization_logo": "st_regis.jpg",
+			"posted_date": "January 9, 2021",
+			"apply_url": "https://ejwl.fa.us2.oraclecloud.com:443/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/20203886/apply/email",
+			"internal": false,
+			"searchable": true,
+			"applyable": true,
+			"li_easy_applyable": false,
+			"ats_code": "marriott-prod-orc",
+			"keyword_searchables": ["The St. Regis Deer Valley"],
+			"meta_data": {
+				"ats": "oracle recruiting cloud",
+				"ats_id": "20203886",
+				"ats_instance": "marriott-prod-orc",
+				"client_code": "marriott",
+				"import_source": "jib-feed-importer",
+				"job_band": " ",
+				"job_description_url": "https://marriott.taleo.net/careersection/2/jobdetail.ftl?job=20203886&lang=en",
+				"maps_link": "https://www.google.com/maps?q=The+St.+Regis+Deer+Valley%2C2300+Deer+Valley+Drive+East%2CPark+City%2CUtah%2CUS",
+				"position_type": "Non-Management",
+				"question_sets": [],
+				"recruiter_email": "ira.becton@marriott-sp.com",
+				"redirectOnApply": true,
+				"googlejobs": {
+					"companyName": "projects/helpful-passage-853/tenants/cb22eb5b-7e00-0000-0000-007edad744d3/companies/eeddf0ec-b3ce-4c18-8d64-d168c82556d8",
+					"jobName": "projects/helpful-passage-853/tenants/cb22eb5b-7e00-0000-0000-007edad744d3/jobs/75914336284877510",
+					"jobHash": "5c304369a0b9b71dc6ec89e8fc12b8db",
+					"derivedInfo": {
+						"jobCategories": ["RESTAURANT_AND_HOSPITALITY"],
+						"locations": [{
+							"latLng": {
+								"latitude": 40.6381283,
+								"longitude": -111.4770938
+							},
+							"locationType": "STREET_ADDRESS",
+							"postalAddress": {
+								"addressLines": ["2300 Deer Valley Dr E, Park City, UT 84060, USA"],
+								"administrativeArea": "UT",
+								"languageCode": "",
+								"locality": "Park City",
+								"organization": "",
+								"postalCode": "84060",
+								"recipients": [],
+								"regionCode": "US",
+								"revision": 0,
+								"sortingCode": "",
+								"sublocality": ""
+							},
+							"radiusInMiles": 0.00007265711273267757
+						}, {
+							"latLng": {
+								"latitude": 40.6381283,
+								"longitude": -111.4770938
+							},
+							"locationType": "STREET_ADDRESS",
+							"postalAddress": {
+								"addressLines": ["2300 Deer Valley Dr E, Park City, UT 84060, USA"],
+								"administrativeArea": "UT",
+								"languageCode": "",
+								"locality": "Park City",
+								"organization": "",
+								"postalCode": "84060",
+								"recipients": [],
+								"regionCode": "US",
+								"revision": 0,
+								"sortingCode": "",
+								"sublocality": ""
+							},
+							"radiusInMiles": 0.00007265711273267757
+						}]
+					},
+					"jobSummary": "Posting Date Jan 09, 2021 Job Number 20203886 Job Category Housekeeping & Laundry Location The St. Regis Deer Valley, 2300 Deer Valley Drive East, Park City, Utah, United States VIEW ON MAP Brand St. Regis Hotels & Resorts Schedule Full-Time Relocation? N Position Type Non-Management Located Remotely? N The St. Regis brand first established luxury hospitality more than 110 years ago, with the opening of the St. Regis New York. From the moment John Jacob Astor IV opened the doors of his Beaux-Arts masterpiece on New York’s Fifth Avenue, St. Regis has stood as a symbol of uncompromising elegance and bespoke service. Today, with more than 40 of the best addresses around the world, St. Regis is a place where trends are born, boundaries are broken and guests can simply live exquisite. We invite you to explore careers at St. Regis. Job Summary Inspect guest rooms, public areas, pool, etc. after being cleaned by Housekeeper to ensure quality standards. Run sold room reports, verify room status, determine discrepant rooms, prioritize room cleaning, and update status of departing guest rooms. Assist Housekeeping management in managing daily activities. Act as a liaison to coordinate the efforts of Housekeeping, Engineering, Front Office, and Laundry. Document and resolve issues with discrepant rooms with the Front Desk. Prepare, distribute, and communicate changes in room assignments. Communicate issues to next shift. Complete required paperwork. Assist management in hiring, training, scheduling, evaluating, counseling, disciplining, and motivating and coaching employees. Follow all company and safety and security policies and procedures; report any maintenance problems, safety hazards, accidents, or injuries; complete safety training and certifications. Ensure uniform and personal appearance are clean and professional; maintain confidentiality of proprietary information; protect company assets. Welcome and acknowledge all guests according to company standards; anticipate and address guests’ service needs; assist individuals with disabilities; thank guests with genuine appreciation. Speak with others using clear and professional language. Develop and maintain positive working relationships with others; listen and respond appropriately to the concerns of other employees. Ensure adherence to quality expectations and standards. Move, lift, carry, and place objects weighing less than or equal to 55 pounds without assistance and in excess of 55 pounds with assistance. Ability to push and pull a loaded housekeeping cart and other work-related machinery over sloping and uneven surfaces. Reach overhead and below the knees, including bending, twisting, pulling, and stooping. Stand, sit, kneel, or walk for an extended period across an entire work shift. Grasp, turn, and manipulate objects of varying size and weight, requiring fine motor skills and hand-eye coordination. Enter and locate work-related information using computers and/or point of sale systems. Read and visually verify information in a variety of formats (e.g., small print). Perform other reasonable job duties as requested by Supervisors. MIRJ Marriott International is an equal opportunity employer. We believe in hiring a diverse workforce and sustaining an inclusive, people-first culture. We are committed to non-discrimination on any protected basis, such as disability and veteran status, or any other basis covered under applicable law.",
+					"jobTitleSnippet": "",
+					"searchTextSnippet": ""
+				},
+				"canonical_url": "https://jobs.marriott.com/jobs/20203886?lang=en-us",
+				"last_mod": "2021-06-03T02:31:11+0000",
+				"gdpr": false
+			},
+			"update_date": "2021-06-03T02:31:11+0000",
+			"create_date": "2021-01-09T02:53:24+0000",
+			"category": [" Housekeeping & Laundry"],
+			"full_location": "Park City, Utah; Park City, Utah",
+			"multipleLocations": true,
+			"short_location": "Multiple"
+		}
+	}, {
+		"data": {
+			"slug": "20202430",
+			"language": "en-us",
+			"languages": ["en-us"],
+			"title": "Senior Vice President, Select Brands",
+			"description": "<div class='hide_me'><b>Posting Date</b> Dec 30, 2020<br><b>Job Number</b> 20202430<br><b>Job Category</b> Brand Management<br><b>Location</b> Marriott International HQ, 10400 Fernwood Road, Bethesda, Maryland, United States <a href='https://www.google.com/maps?q=Marriott+International+HQ%2C10400+Fernwood+Road%2CBethesda%2CMaryland%2CUS' target='_blank'>VIEW ON MAP</a><br><b>Brand</b> Corporate<br><b>Schedule</b> Full-Time<br><b>Relocation?</b> Y<br><b>Position Type</b> Management<br><b>Located Remotely?</b> N<br><br><div>  <table>   <tbody>    <tr>     <td>Marriott International is the world’s largest hotel company, with more brands, more hotels and more opportunities for associates to grow and succeed.&nbsp; We believe a great career is a journey of discovery and exploration.&nbsp; So, we ask, where will your journey take you?</td>    </tr>   </tbody>  </table> </div><br></div><p><strong><span>JOB SUMMARY</span></strong><span>&nbsp;</span></p> <p style=\"margin-right:13.5pt\"><span>One of the overarching roles of Global Brand Management is to enhance the positioning and performance of brands within their competitive segments, and to ensure that Marriott International’s portfolio of brands provide maximum value to the enterprise. Each of Marriott International’s brands, or combination of brands, are managed by a designated leader and corresponding infrastructure. The <strong>Senior Vice President, Select Brands </strong>will provide executive brand leadership to the following portfolio of brands: Moxy, AC, Aloft, Element, Courtyard, Four Points, Fairfield Inn, Residence Inn, SpringHill Suites, Townplace Suites, and Protea. </span><span>&nbsp;</span></p> <p><span>This leader is accountable for defining, developing and executing the guest experience at all designated brands globally in a way that is consistent with each brands’ strategic business model and creates maximum profitability and enhances the long-term health of the brand.<span>&nbsp; </span>This experience spans from building brand preference for both customers and investors, to on-site product and service touch points and the global marketing of the brands.<span>&nbsp; </span>To enable this, the leader is responsible for: 1) establishing the brand strategy and multi-year planning across brands, 2) execution of the brand strategy through cross-functional/matrixed resources, 4) managing the business model &amp; driving brand performance.<span>&nbsp; </span></span>﻿</p> <p><strong>C<span>ANDIDATE PROFILE </span></strong><span>&nbsp;</span></p> <p style=\"margin-left:.25in; margin-right:0in\"><span>Education and Experience Preferred</span></p> <p style=\"margin-left:.25in\"><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>4-year degree from an accredited university in Business Administration, Marketing, or related major; MBA</span></p> <p style=\"margin-left:.25in\"><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>16+ years of relevant professional experience in brand management, marketing, or related function; demonstrated progressive career growth and pattern of exceptional performance OR </span></p> <p style=\"margin-left:.25in\"><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>18+ years of relevant professional experience in a related function, demonstrating progressive career growth and patterns of exceptional performance</span></p> <p style=\"margin-left:.25in\"><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Prior track record of “breakthrough” consumer brand development</span></p> <p style=\"margin-left:.25in\"><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Experience managing and defining transformational strategies for business units.</span></p> <p style=\"margin-left:.25in\"><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Demonstrated ability to deliver results under difficult conditions, particularly when faced with complexity and ambiguity</span></p> <div>  <p><strong><span>CORE WORK ACTIVITIES </span></strong><span>&nbsp;</span></p>  <p><span>The SVP, Premium Brands, is accountable for overseeing the definition, development, and execution of the guest experience at all assigned brands globally in a way that is consistent with each brands’ strategic business model and creates maximum profitability.<span>&nbsp; </span>This experience spans from building brand preference for both customers and investors, to on-site product and service touch points for the brands. To enable this, this Senior Vice President leads the team who are directly responsible for developing and constantly enhancing the direction for the brands including:</span></p>  <p><strong><span>Brand Strategy &amp; Planning</span></strong></p>  <p style=\"margin-left:.25in\"><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Anticipates and identifies strategic business opportunities and challenges and responds with a profitable strategy that aligns and supports the overall growth strategy for the assigned portfolio.<span>&nbsp; </span></span></p>  <p style=\"margin-left:.25in\"><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Leads brand teams across the assigned brand portfolio to advance new initiatives, products, and services (including evaluation of initiative impact, ROI, and sustainability).</span></p>  <p style=\"margin-left:.75in\"><span><span>o<span>&nbsp;&nbsp; </span></span></span><span>Participates with Global development and supports the on-strategy growth of the brands </span></p>  <p style=\"margin-left:.75in\"><span><span>o<span>&nbsp;&nbsp; </span></span></span><span>Ensures that the portfolio affiliation is pulled through elegantly and thoughtfully preserving the brand equity for each brand</span></p>  <p style=\"margin-left:.75in\"><span><span>o<span>&nbsp;&nbsp; </span></span></span><span>Collaborates with the Continent brand teams to pull through on the brand execution in product and service</span></p>  <p style=\"margin-left:.75in\"><span><span>o<span>&nbsp;&nbsp; </span></span></span><span>Engages and participates in the relevant forums outside of the industry to keep these brands in the consideration set of the target consumer</span></p>  <p style=\"margin-left:.75in\"><span><span>o<span>&nbsp;&nbsp; </span></span></span><span>Actively manage and participate in owner relationships to drive the brand objectives forward<span> &nbsp; &nbsp;</span></span><span>&nbsp;</span></p>  <p style=\"margin-left:.25in\"><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Establishes a strategic brand and operations business plan for each brand and brand extension within the assigned portfolio. Secures senior executive alignment, specifically the objectives, priorities, and support required to successfully execute.<span>&nbsp; </span></span></p>  <p style=\"margin-left:.25in\"><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Leads the annual business planning process for the portfolio of brands, to include development and alignment of priority initiatives and securing the associated funding required.</span></p>  <p style=\"margin-left:.25in\"><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Provides executive leadership approval for project requests; accesses team and appropriate resources to spearhead projects, according to agreed upon governance structure; ensures brands garner funding for major capital projects.<span>&nbsp; </span>Oversees and approves the development of “solution”/project implementation plans and acts as escalation point for implementation challenges/decision points.</span></p>  <p style=\"margin-left:.25in\"><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Provides strategic guidance and partners with disciplines/market to set Brand Performance Scorecard targets.<span>&nbsp; </span>Reviews scorecard performance across assigned brand portfolio.</span></p>  <p style=\"margin-left:.25in\"><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Provides oversight to ensure the appropriate resources are applied to surface and analyze trends, identify root causes of issues, and make improvement recommendations and/or adjust targets as appropriate. </span></p>  <p style=\"margin-left:.25in\"><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Translates internal and external research and trends into actionable brand strategies. Analyzes data to frame up a business issue/concept; determines feasibility and understands how to operationalize the concept; converts research data into actionable options for moving the brands forward.</span></p>  <p style=\"margin-left:.25in\"><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Educates/communicates on brand strategy, positioning, voice, strategic pillars and competitive environment.</span></p>  <p style=\"margin-left:.25in\"><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Partners with Owner and Franchise Services on global brand owner communications, key owner account management, and oversees the planning and execution of global brand owner meetings.<span> &nbsp;</span></span><span>&nbsp;</span></p>  <p><strong><span>Brand Performance &amp; Development</span></strong></p>  <p style=\"margin-left:.25in\"><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Owns end-to-end brand innovation process outcomes across brands within the assigned portfolio of brands.</span></p>  <p style=\"margin-left:.25in\"><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Develops clear applications of business and brand strategies that can be translated by other functions into tactical implementation. Establishes, communicates and coordinates work priorities to achieve the brand strategies.</span></p>  <p style=\"margin-left:.25in\"><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Serves as the primary point of contact for the assigned portfolio to ensure that new brand strategies and initiatives are being designed and deployed within market effectively. </span></p>  <p style=\"margin-left:.25in\"><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Regularly interfaces with AVPs and other market resources to better understand environmental/regional factors impacting current and future brand initiatives and standards and to provide regular brand updates.</span></p>  <p style=\"margin-left:.25in\"><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Champions brands’ GM advisory board, or related forums, to align and obtain input and feedback on strategies, initiatives and general brand priorities.</span></p>  <p style=\"margin-left:.25in\"><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Monitors collective impact of all innovations/products/services to ensure they achieve overall objectives outlined in the Brand Business Plan, while maintaining the integrity of the Brand Business Model.</span></p>  <p><span><strong><span>Brand Growth &amp; Development</span></strong></span></p>  <p style=\"margin-left:.25in\"><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Identifies opportunities to strategically grow the assigned portfolio for Marriott International.<span>&nbsp; </span></span></p>  <p style=\"margin-left:.25in\"><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Partners with development to develop and oversee the execution of strategic growth pipelines in key markets for the brands he/she supports.</span></p>  <p style=\"margin-left:.25in\"><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Works with development team to produce toolkits and resources, conducts owner brand immersions and site visits to support development in securing on-strategy projects for the brand</span></p>  <p style=\"margin-left:.25in\"><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Ensures that business model, positioning and core proof points are clearly articulated for their brands, understood by key stakeholders and scalable to drive system growth.</span></p>  <p style=\"margin-left:.25in\"><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Provides opening support for new hotels; coordinates with openings and regional teams to ensure all elements of the ‘opening countdown’ including training, ‘culture day’, etc. are executed on-strategy.</span></p>  <p style=\"margin-left:.25in\"><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Provides guidance to opening teams to ensure branded critical path document for openings and conversions are developed and maintained.</span></p>  <p style=\"margin-left:.25in\"><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Leads strategic research and insights work to test, pilot, and implement brand extensions (i.e., retail) for key brands.</span><span>&nbsp;</span></p>  <p><strong><span>Stakeholder Relations</span></strong></p>  <p style=\"margin-left:.25in\"><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Provides executive partnership with key stakeholders to ensure execution, including but not limited to:<span>&nbsp; </span>Marketing &amp; PR, A&amp;C, Style &amp; Design, Culture &amp; Operations, Creative, Sales, and each of the key leaders in the continents.</span></p>  <p style=\"margin-left:.25in\"><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Drives the organizational alignment and accountability for successful outcomes of brand initiatives with the market, and other functional areas; ensures strategies address relevant stakeholder needs and competitive environment; executes accordingly.</span></p>  <p style=\"margin-left:.25in\"><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Establishes and execute a communication platform for the brand with General Managers and other key hotel and market stakeholders. Represent the brand portfolio during General Managers Conferences and other key conferences.</span></p>  <p style=\"margin-left:.25in\"><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Creates informal mentor relationships with other brand representatives to create a climate of teamwork and learning.</span></p>  <p><strong><span>Leading and Managing Teams</span></strong></p>  <p style=\"margin-left:.25in\"><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Creates a synergistic leadership team and business environment that encourages accountability, high standards, and innovation to consistently deliver positive business results.</span></p>  <p style=\"margin-left:.25in\"><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Hires, develops, and retains diverse talent that makes a strong, positive impact on the organization.<span>&nbsp; </span></span></p>  <p style=\"margin-left:.25in\"><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Sets clear organizational goals and expectations for direct reports using the performance review process and holds team accountable for performance.</span></p>  <p style=\"margin-left:.25in\"><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Continuously improves team and job structures and ensures clear leadership accountabilities are in place.</span></p>  <p style=\"margin-left:.25in\"><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Builds teams with the appropriate mix of talent and skills to drive innovation and performance. Identifies talents of direct reports and assists with their growth and development plans.</span></p>  <p><strong>Managing and Conducting Human Resources Activities</strong></p>  <p style=\"margin-left:.25in\"><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Interviews and hires employees.</span></p>  <p style=\"margin-left:.25in\"><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Promotes the fair and equitable treatment of employees.</span></p>  <p style=\"margin-left:.25in\"><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Facilitates regular, ongoing communication in department (e.g., staff meetings).</span></p>  <p style=\"margin-left:.25in\"><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Fosters employee commitment to providing excellent service, participates in daily stand-up meetings and models desired service behaviors in all interactions with customer and employees.</span></p>  <p style=\"margin-left:.25in\"><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Incorporates customer satisfaction as a component of staff/operations meetings with an emphasis on generating innovative ways to continually improve results.</span></p>  <p style=\"margin-left:.25in\"><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Sets goals and expectations for direct reports using the performance review process and holds staff accountable for performance goals.</span></p>  <p style=\"margin-left:.25in\"><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Solicits employee feedback.</span></p>  <p style=\"margin-left:.25in\"><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Utilizes an “open door policy” and reviews employee satisfaction results to identify and address employee problems or concerns</span></p>  <p style=\"margin-left:.25in\"><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Promotes adherence to policies consistently, follows disciplinary procedures and documents items according to Standard and Local Operating</span></p>  <p style=\"margin-left:.25in\"><span>Procedures (SOPs and LSOPs) and supports the Peer Review Process.</span></p>  <p style=\"margin-left:.25in\"><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Conducts annual performance appraisal with direct reports according to Standard Operating Procedures.</span></p>  <p style=\"margin-left:.25in\"><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Champions change ensures brand and regional business initiatives are implemented and communicates follow-up actions to team as necessary.</span></p>  <p style=\"margin-left:.25in\"><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Identifies talents of direct reports and their teams and assists with their growth and development plans.</span></p> </div> <em>Marriott International is an equal opportunity employer.&nbsp;We believe in hiring a diverse workforce and sustaining an inclusive, people-first culture.&nbsp;We are committed to non-discrimination on&nbsp;any&nbsp;protected&nbsp;basis, such as disability and veteran status, or any other basis covered under applicable law.</em><br>",
+			"location_name": "Marriott International HQ",
+			"street_address": "10400 Fernwood Road",
+			"city": "Bethesda",
+			"state": "Maryland",
+			"country": "United States",
+			"country_code": "US",
+			"postal_code": "20817",
+			"location_type": "LAT_LNG",
+			"latitude": 39.0247171,
+			"longitude": -77.1382699,
+			"additional_locations": [{
+				"city": "Bethesda",
+				"state": "Maryland",
+				"country": "United States",
+				"country_code": "US",
+				"latitude": 39.0247171,
+				"longitude": -77.1382699
+			}],
+			"categories": [{
+				"name": "Brand Management"
+			}],
+			"tags": ["BETHESDA1", "management-us-states"],
+			"brand": "Corporate",
+			"recruiter_name": "Tracy Forrest",
+			"promotion_value": 0,
+			"experience_levels": ["Full-Time"],
+			"benefits": ["VISION", "SICK_DAYS", "DOMESTIC_PARTNER", "VACATION", "DENTAL", "LIFE_INSURANCE", "PARENTAL_LEAVE", "RETIREMENT_PLAN", "MEDICAL"],
+			"industry": "Hospitality",
+			"hiring_organization": "Corporate",
+			"hiring_organization_logo": "marriott_hotels.jpg",
+			"posted_date": "December 30, 2020",
+			"apply_url": "https://ejwl.fa.us2.oraclecloud.com:443/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/20202430/apply/email",
+			"internal": false,
+			"searchable": true,
+			"applyable": true,
+			"li_easy_applyable": false,
+			"ats_code": "marriott-prod-orc",
+			"keyword_searchables": ["Marriott International HQ"],
+			"meta_data": {
+				"ats": "oracle recruiting cloud",
+				"ats_id": "20202430",
+				"ats_instance": "marriott-prod-orc",
+				"import_source": "jib-feed-importer",
+				"job_band": "GR 5 - Green",
+				"job_description_url": "https://marriott.taleo.net/careersection/2/jobdetail.ftl?job=20202430&lang=en",
+				"maps_link": "https://www.google.com/maps?q=Marriott+International+HQ%2C10400+Fernwood+Road%2CBethesda%2CMaryland%2CUS",
+				"position_type": "Management",
+				"question_sets": [],
+				"recruiter_email": "Tracy.Forrest@marriott.com",
+				"redirectOnApply": true,
+				"googlejobs": {
+					"companyName": "projects/helpful-passage-853/tenants/cb22eb5b-7e00-0000-0000-007edad744d3/companies/eeddf0ec-b3ce-4c18-8d64-d168c82556d8",
+					"jobName": "projects/helpful-passage-853/tenants/cb22eb5b-7e00-0000-0000-007edad744d3/jobs/130612279176504006",
+					"jobHash": "ab2881e4231bcdf193a3fdb3140714c7",
+					"derivedInfo": {
+						"jobCategories": ["MANAGEMENT"],
+						"locations": [{
+							"latLng": {
+								"latitude": 39.0247171,
+								"longitude": -77.1382699
+							},
+							"locationType": "STREET_ADDRESS",
+							"postalAddress": {
+								"addressLines": ["10400 Fernwood Rd, Bethesda, MD 20817, USA"],
+								"administrativeArea": "MD",
+								"languageCode": "",
+								"locality": "Bethesda",
+								"organization": "",
+								"postalCode": "20817",
+								"recipients": [],
+								"regionCode": "US",
+								"revision": 0,
+								"sortingCode": "",
+								"sublocality": ""
+							},
+							"radiusInMiles": 0.00008076900455882514
+						}, {
+							"latLng": {
+								"latitude": 39.0247171,
+								"longitude": -77.1382699
+							},
+							"locationType": "STREET_ADDRESS",
+							"postalAddress": {
+								"addressLines": ["10400 Fernwood Rd, Bethesda, MD 20817, USA"],
+								"administrativeArea": "MD",
+								"languageCode": "",
+								"locality": "Bethesda",
+								"organization": "",
+								"postalCode": "20817",
+								"recipients": [],
+								"regionCode": "US",
+								"revision": 0,
+								"sortingCode": "",
+								"sublocality": ""
+							},
+							"radiusInMiles": 0.00008076900455882514
+						}]
+					},
+					"jobSummary": "One of the overarching roles of Global Brand Management is to enhance the positioning and performance of brands within their competitive segments, and to ensure that Marriott International’s portfolio of brands provide maximum value to the enterprise. Each of Marriott International’s brands, or combination of brands, are managed by a designated leader and corresponding infrastructure. The Senior Vice President, Select Brands will provide executive brand leadership to the following portfolio of brands: Moxy, AC, Aloft, Element, Courtyard, Four Points, Fairfield Inn, Residence Inn, SpringHill Suites, Townplace Suites, and Protea.",
+					"jobTitleSnippet": "",
+					"searchTextSnippet": ""
+				},
+				"canonical_url": "https://jobs.marriott.com/jobs/20202430?lang=en-us",
+				"last_mod": "2021-03-22T20:16:33+0000",
+				"gdpr": false
+			},
+			"update_date": "2021-03-22T20:16:33+0000",
+			"create_date": "2021-01-04T00:04:40+0000",
+			"category": [" Brand Management"],
+			"full_location": "Bethesda, Maryland; Bethesda, Maryland",
+			"multipleLocations": true,
+			"short_location": "Multiple"
+		}
+	}, {
+		"data": {
+			"slug": "21056148",
+			"language": "en-us",
+			"languages": ["ar-sa", "de-de", "en-us", "es-mx", "fr-fr", "it-it", "ja-jp", "ko-kr", "pl-pl", "pt-br", "ru-ru", "th-th", "tr-tr", "zh-cn", "zh-tw"],
+			"title": "Commis-Western Kitchen",
+			"description": "Posting Date Jun 04, 2021 Job Number 21056148 Job Category Food and Beverage & Culinary Location Sheraton Tianjin Binhai Hotel, No. 50 2nd Avenue TEDA, Tianjin, Tianjin, China VIEW ON MAP Brand Sheraton Hotels & Resorts Schedule Full-Time Relocation? N Position Type Non-Management Located Remotely? N At Sheraton, we go above and beyond in everything we do. We are inspired by our guests and one another – and are driven to make things better. We love what we do, and we give it all we’ve got – on property and off. When guests stay with us, it’s not just a room with a bed that they’re buying. It’s an experience. We’re looking for someone who is ready to go beyond in everything they do. If you are someone with a genuine drive to improve your life and the lives of those around you, we encourage you to explore careers with Sheraton. POSITION SUMMARY Prepare special meals or substitute items. Regulate temperature of ovens, broilers, grills, and roasters. Pull food from freezer storage to thaw in the refrigerator. Ensure proper portion, arrangement, and food garnish. Maintain food logs. Monitor the quality and quantity of food that is prepared. Communicate assistance needed during busy periods. Inform Chef of excess food items for use in daily specials. Inform Food & Beverage service staff of menu specials and out of stock menu items. Ensure the quality of the food items. Prepare and cook food according to recipes, quality standards, presentation standards, and food preparation checklist. Prepare cold foods. Assist management in hiring, training, scheduling, evaluating, counseling, disciplining, and motivating and coaching employees; serve as a role model. Follow all company and safety and security policies and procedures; report maintenance needs, accidents, injuries, and unsafe work conditions to manager; complete safety training and certifications. Ensure uniform and personal appearance are clean and professional; maintain confidentiality of proprietary information; protect company assets. Anticipate and address guests’ service needs. Speak with others using clear and professional language. Develop and maintain positive working relationships with others; support team to reach common goals; listen and respond appropriately to the concerns of other employees. Ensure adherence to quality expectations and standards. Stand, sit, or walk for an extended period of time. Reach overhead and below the knees, including bending, twisting, pulling, and stooping. Move, lift, carry, push, pull, and place objects weighing less than or equal to 25 pounds without assistance. Perform other reasonable job duties as requested by Supervisors. Marriott International is an equal opportunity employer. We believe in hiring a diverse workforce and sustaining an inclusive, people-first culture. We are committed to non-discrimination on any protected basis, such as disability and veteran status, or any other basis covered under applicable law.",
+			"location_name": "Sheraton Tianjin Binhai Hotel",
+			"street_address": "No. 50 2nd Avenue TEDA",
+			"city": "Tianjin",
+			"state": "Tianjin",
+			"country": "China",
+			"country_code": "CN",
+			"location_type": "LAT_LNG",
+			"latitude": 39.025761,
+			"longitude": 117.704001,
+			"additional_locations": [{
+				"state": "Tianjin",
+				"country": "China",
+				"country_code": "CN",
+				"latitude": 39.3433574,
+				"longitude": 117.3616476
+			}],
+			"categories": [{
+				"name": "Food and Beverage & Culinary"
+			}],
+			"tags": ["1BSYF"],
+			"brand": "Sheraton Hotels & Resorts",
+			"recruiter_name": "Nola Ma",
+			"promotion_value": 0,
+			"experience_levels": ["Full-Time"],
+			"benefits": ["VISION", "SICK_DAYS", "DOMESTIC_PARTNER", "VACATION", "DENTAL", "LIFE_INSURANCE", "PARENTAL_LEAVE", "RETIREMENT_PLAN", "MEDICAL"],
+			"industry": "Hospitality",
+			"hiring_organization": "Sheraton Hotels & Resorts",
+			"hiring_organization_logo": "sheraton.jpg",
+			"posted_date": "June 4, 2021",
+			"apply_url": "https://ejwl.fa.us2.oraclecloud.com:443/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/21056148/apply/email",
+			"internal": false,
+			"searchable": true,
+			"applyable": true,
+			"li_easy_applyable": false,
+			"ats_code": "marriott-prod-orc",
+			"keyword_searchables": ["Sheraton Tianjin Binhai Hotel"],
+			"meta_data": {
+				"ats": "oracle recruiting cloud",
+				"ats_id": "21056148",
+				"ats_instance": "marriott-prod-orc",
+				"client_code": "marriott",
+				"import_source": "jib-feed-importer",
+				"job_band": " ",
+				"job_description_url": "https://marriott.taleo.net/careersection/2/jobdetail.ftl?job=21056148&lang=en",
+				"maps_link": "https://gaode.com/search?query=Sheraton+Tianjin+Binhai+Hotel%2CTianjin",
+				"position_type": "Non-Management",
+				"question_sets": [],
+				"recruiter_email": "Nola.N.Ma@marriott.com",
+				"redirectOnApply": true,
+				"googlejobs": {
+					"companyName": "projects/helpful-passage-853/tenants/cb22eb5b-7e00-0000-0000-007edad744d3/companies/eeddf0ec-b3ce-4c18-8d64-d168c82556d8",
+					"jobName": "projects/helpful-passage-853/tenants/cb22eb5b-7e00-0000-0000-007edad744d3/jobs/136791199831728838",
+					"jobHash": "d0f2df7be6b43d54e2e18970554508d4",
+					"derivedInfo": {
+						"jobCategories": ["RESTAURANT_AND_HOSPITALITY"],
+						"locations": [{
+							"latLng": {
+								"latitude": 39.025761,
+								"longitude": 117.704001
+							},
+							"locationType": "STREET_ADDRESS",
+							"postalAddress": {
+								"addressLines": ["50 2nd St, Binhai Xinqu, Tianjin Shi, China, 300457"],
+								"administrativeArea": "Tianjin Shi",
+								"languageCode": "",
+								"locality": "Tianjin",
+								"organization": "",
+								"postalCode": "300457",
+								"recipients": [],
+								"regionCode": "CN",
+								"revision": 0,
+								"sortingCode": "",
+								"sublocality": "Binhai Xinqu"
+							},
+							"radiusInMiles": 0.00007329246721632898
+						}, {
+							"latLng": {
+								"latitude": 39.3433574,
+								"longitude": 117.3616476
+							},
+							"locationType": "LOCALITY",
+							"postalAddress": {
+								"addressLines": ["Tianjin, China"],
+								"administrativeArea": "Tianjin",
+								"languageCode": "",
+								"locality": "Tianjin",
+								"organization": "",
+								"postalCode": "",
+								"recipients": [],
+								"regionCode": "CN",
+								"revision": 0,
+								"sortingCode": "",
+								"sublocality": ""
+							},
+							"radiusInMiles": 0.030223856382636482
+						}]
+					},
+					"jobSummary": "Posting Date Jun 04, 2021 Job Number 21056148 Job Category Food and Beverage & Culinary Location Sheraton Tianjin Binhai Hotel, No. 50 2nd Avenue TEDA, Tianjin, Tianjin, China VIEW ON MAP Brand Sheraton Hotels & Resorts Schedule Full-Time Relocation? N Position Type Non-Management Located Remotely? N At Sheraton, we go above and beyond in everything we do. We are inspired by our guests and one another – and are driven to make things better. We love what we do, and we give it all we’ve got – on property and off. When guests stay with us, it’s not just a room with a bed that they’re buying. It’s an experience. We’re looking for someone who is ready to go beyond in everything they do. If you are someone with a genuine drive to improve your life and the lives of those around you, we encourage you to explore careers with Sheraton. POSITION SUMMARY Prepare special meals or substitute items. Regulate temperature of ovens, broilers, grills, and roasters. Pull food from freezer storage to thaw in the refrigerator. Ensure proper portion, arrangement, and food garnish. Maintain food logs. Monitor the quality and quantity of food that is prepared. Communicate assistance needed during busy periods. Inform Chef of excess food items for use in daily specials. Inform Food & Beverage service staff of menu specials and out of stock menu items. Ensure the quality of the food items. Prepare and cook food according to recipes, quality standards, presentation standards, and food preparation checklist. Prepare cold foods. Assist management in hiring, training, scheduling, evaluating, counseling, disciplining, and motivating and coaching employees; serve as a role model. Follow all company and safety and security policies and procedures; report maintenance needs, accidents, injuries, and unsafe work conditions to manager; complete safety training and certifications. Ensure uniform and personal appearance are clean and professional; maintain confidentiality of proprietary information; protect company assets. Anticipate and address guests’ service needs. Speak with others using clear and professional language. Develop and maintain positive working relationships with others; support team to reach common goals; listen and respond appropriately to the concerns of other employees. Ensure adherence to quality expectations and standards. Stand, sit, or walk for an extended period of time. Reach overhead and below the knees, including bending, twisting, pulling, and stooping. Move, lift, carry, push, pull, and place objects weighing less than or equal to 25 pounds without assistance. Perform other reasonable job duties as requested by Supervisors. Marriott International is an equal opportunity employer. We believe in hiring a diverse workforce and sustaining an inclusive, people-first culture. We are committed to non-discrimination on any protected basis, such as disability and veteran status, or any other basis covered under applicable law.",
+					"jobTitleSnippet": "",
+					"searchTextSnippet": ""
+				},
+				"canonical_url": "https://jobs.marriott.com/jobs/21056148?lang=en-us",
+				"last_mod": "2021-06-04T07:33:19+0000",
+				"gdpr": false
+			},
+			"create_date": "2021-06-04T07:33:19+0000",
+			"category": [" Food and Beverage & Culinary"],
+			"full_location": "Tianjin, China; Tianjin, China",
+			"multipleLocations": true,
+			"short_location": "Multiple"
+		}
+	}, {
+		"data": {
+			"slug": "21056177",
+			"language": "en-us",
+			"languages": ["en-us", "ko-kr"],
+			"title": "Housekeeping Manager",
+			"description": "Posting Date Jun 04, 2021 Job Number 21056177 Job Category Housekeeping & Laundry Location Sheraton Grand Incheon Hotel, 153, Convensia-Road, Incheon, Incheon, Korea, Republic of VIEW ON MAP Brand Sheraton Hotels & Resorts Schedule Full-Time Relocation? N Position Type Management Located Remotely? N At Sheraton, we go above and beyond in everything we do. We are inspired by our guests and one another – and are driven to make things better. We love what we do, and we give it all we’ve got – on property and off. When guests stay with us, it’s not just a room with a bed that they’re buying. It’s an experience. We’re looking for someone who is ready to go beyond in everything they do. If you are someone with a genuine drive to improve your life and the lives of those around you, we encourage you to explore careers with Sheraton. JOB SUMMARY Responsible for the daily shift operations of Housekeeping, Recreation/Health Club and, if applicable, Laundry. Directs and works with employees to verify property guestrooms, public space and employee areas are clean and well maintained. Completes inspections and holds people accountable for corrective action. Position assists in ensuring guest and employee satisfaction while maintaining the operating budget. CANDIDATE PROFILE Education and Experience • High school diploma or GED; 2 years experience in the housekeeping or related professional area. OR • 2-year degree from an accredited university in Hotel and Restaurant Management, Hospitality, Business Administration, or related major; no work experience required. CORE WORK ACTIVITIES Managing Housekeeping Operations and Budgets • Verifies guest room status is communicated to the Front Desk in a timely and efficient manner. • Inspects guestrooms on a daily basis. • Obtains list of rooms to be cleaned immediately and list of prospective check-outs or discharges to prepare work assignments. • Inventories stock to verify adequate supplies. • Supports and supervises an effective inspection program for all guestrooms and public space. • Understands the impact of department’s operations on the overall property financial goals and objectives and manages to achieve or exceed budgeted goals. • Verifies all employees have proper supplies, equipment and uniforms. • Communicates areas that need attention to staff and follows up to verify understanding. • Supervises daily Housekeeping shift operations and verifies compliance with all housekeeping policies, standards and procedures. • Participates in departmental meetings and continually communicates a clear and consistent message regarding the departmental goals to produce desired results. Conducting Human Resources Activities • Uses all available on the job training tools to train new room attendants and provide follow-up training as necessary. • Establishes and maintains open, collaborative relationships with employees and verifies employees do the same with them. • Schedules employees to business demands and for tracks employee time and attendance. • Verifies employees understand expectations and parameters. • Verifies property policies are administered fairly and consistently, disciplinary procedures and documentation are completed according to Standard and Local Operating Procedures (SOPs and LSOPs) and support the Peer Review Process, where applicable. • Supervises staffing levels to verify that guest service, operational needs, and financial objectives are met. • Observes service behaviors of employees and provides feedback to individuals. • Verifies employee recognition is taking place on all shifts. • Participates in an on-going employee recognition program. • Solicits employee feedback, utilizes an “open door” policy, and reviews employee satisfaction results to identify and address employee problems or concerns. • Participates in employee progressive discipline procedures. • Celebrates successes and publicly recognizes the contributions of team members. Ensuring Exceptional Customer Service • Sets a positive example for guest relations. • Understands the brand's service culture. • Participates in the development and implementation of corrective action plans to improve guest satisfaction. • Empowers employees to provide excellent customer service. • Emphasizes guest satisfaction during all departmental meetings and focuses on continuous improvement. • Responds to and handles guest problems and complaints. • Strives to improve service performance. Marriott International is an equal opportunity employer. We believe in hiring a diverse workforce and sustaining an inclusive, people-first culture. We are committed to non-discrimination on any protected basis, such as disability and veteran status, or any other basis covered under applicable law.",
+			"location_name": "Sheraton Grand Incheon Hotel",
+			"street_address": "153, Convensia-Road",
+			"city": "Incheon",
+			"state": "Incheon",
+			"country": "Korea, Republic of",
+			"country_code": "KR",
+			"postal_code": "21998",
+			"location_type": "LAT_LNG",
+			"latitude": 37.3901135,
+			"longitude": 126.6453929,
+			"additional_locations": [{
+				"state": "Incheon",
+				"country": "Korea, Republic of",
+				"country_code": "KR",
+				"latitude": 37.4562557,
+				"longitude": 126.7052062
+			}],
+			"categories": [{
+				"name": "Housekeeping & Laundry"
+			}],
+			"tags": ["management", "1BSV2"],
+			"brand": "Sheraton Hotels & Resorts",
+			"recruiter_name": "Cecille Seulhee Lee",
+			"promotion_value": 0,
+			"experience_levels": ["Full-Time"],
+			"benefits": ["VISION", "SICK_DAYS", "DOMESTIC_PARTNER", "VACATION", "DENTAL", "LIFE_INSURANCE", "PARENTAL_LEAVE", "RETIREMENT_PLAN", "MEDICAL"],
+			"industry": "Hospitality",
+			"hiring_organization": "Sheraton Hotels & Resorts",
+			"hiring_organization_logo": "sheraton.jpg",
+			"posted_date": "June 4, 2021",
+			"apply_url": "https://ejwl.fa.us2.oraclecloud.com:443/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/21056177/apply/email",
+			"internal": false,
+			"searchable": true,
+			"applyable": true,
+			"li_easy_applyable": false,
+			"ats_code": "marriott-prod-orc",
+			"keyword_searchables": ["Sheraton Grand Incheon Hotel"],
+			"meta_data": {
+				"ats": "oracle recruiting cloud",
+				"ats_id": "21056177",
+				"ats_instance": "marriott-prod-orc",
+				"client_code": "marriott",
+				"import_source": "jib-feed-importer",
+				"job_band": "RD 1 - Red",
+				"job_description_url": "https://marriott.taleo.net/careersection/2/jobdetail.ftl?job=21056177&lang=en",
+				"maps_link": "https://www.google.com/maps?q=Sheraton+Grand+Incheon+Hotel%2C153%2C+Convensia-Road%2CIncheon%2CIncheon%2CKR",
+				"position_type": "Management",
+				"question_sets": [],
+				"recruiter_email": "Cecille.Lee@sheraton.com",
+				"redirectOnApply": true,
+				"googlejobs": {
+					"companyName": "projects/helpful-passage-853/tenants/cb22eb5b-7e00-0000-0000-007edad744d3/companies/eeddf0ec-b3ce-4c18-8d64-d168c82556d8",
+					"jobName": "projects/helpful-passage-853/tenants/cb22eb5b-7e00-0000-0000-007edad744d3/jobs/137332028556092102",
+					"jobHash": "7eec7f3b0ec957deca4d2808024c92d0",
+					"derivedInfo": {
+						"jobCategories": ["MANAGEMENT", "CLEANING_AND_FACILITIES"],
+						"locations": [{
+							"latLng": {
+								"latitude": 37.3901135,
+								"longitude": 126.6453929
+							},
+							"locationType": "SUB_LOCALITY_2",
+							"postalAddress": {
+								"addressLines": ["South Korea, Incheon, Yeonsu-gu, Songdo-dong, 153 Convensia-road"],
+								"administrativeArea": "Incheon",
+								"languageCode": "",
+								"locality": "Incheon",
+								"organization": "",
+								"postalCode": "21998",
+								"recipients": [],
+								"regionCode": "KR",
+								"revision": 0,
+								"sortingCode": "",
+								"sublocality": "Yeonsu-gu"
+							},
+							"radiusInMiles": 0.00007392381689468169
+						}, {
+							"latLng": {
+								"latitude": 37.4562557,
+								"longitude": 126.7052062
+							},
+							"locationType": "LOCALITY",
+							"postalAddress": {
+								"addressLines": ["Incheon, South Korea"],
+								"administrativeArea": "Incheon",
+								"languageCode": "",
+								"locality": "Incheon",
+								"organization": "",
+								"postalCode": "",
+								"recipients": [],
+								"regionCode": "KR",
+								"revision": 0,
+								"sortingCode": "",
+								"sublocality": ""
+							},
+							"radiusInMiles": 0.005574719407486667
+						}]
+					},
+					"jobSummary": "Posting Date Jun 04, 2021 Job Number 21056177 Job Category Housekeeping & Laundry Location Sheraton Grand Incheon Hotel, 153, Convensia-Road, Incheon, Incheon, Korea, Republic of VIEW ON MAP Brand Sheraton Hotels & Resorts Schedule Full-Time Relocation? N Position Type Management Located Remotely? N At Sheraton, we go above and beyond in everything we do. We are inspired by our guests and one another – and are driven to make things better. We love what we do, and we give it all we’ve got – on property and off. When guests stay with us, it’s not just a room with a bed that they’re buying. It’s an experience. We’re looking for someone who is ready to go beyond in everything they do. If you are someone with a genuine drive to improve your life and the lives of those around you, we encourage you to explore careers with Sheraton. JOB SUMMARY Responsible for the daily shift operations of Housekeeping, Recreation/Health Club and, if applicable, Laundry. Directs and works with employees to verify property guestrooms, public space and employee areas are clean and well maintained. Completes inspections and holds people accountable for corrective action. Position assists in ensuring guest and employee satisfaction while maintaining the operating budget. CANDIDATE PROFILE Education and Experience • High school diploma or GED; 2 years experience in the housekeeping or related professional area. OR • 2-year degree from an accredited university in Hotel and Restaurant Management, Hospitality, Business Administration, or related major; no work experience required. CORE WORK ACTIVITIES Managing Housekeeping Operations and Budgets • Verifies guest room status is communicated to the Front Desk in a timely and efficient manner. • Inspects guestrooms on a daily basis. • Obtains list of rooms to be cleaned immediately and list of prospective check-outs or discharges to prepare work assignments. • Inventories stock to verify adequate supplies. • Supports and supervises an effective inspection program for all guestrooms and public space. • Understands the impact of department’s operations on the overall property financial goals and objectives and manages to achieve or exceed budgeted goals. • Verifies all employees have proper supplies, equipment and uniforms. • Communicates areas that need attention to staff and follows up to verify understanding. • Supervises daily Housekeeping shift operations and verifies compliance with all housekeeping policies, standards and procedures. • Participates in departmental meetings and continually communicates a clear and consistent message regarding the departmental goals to produce desired results. Conducting Human Resources Activities • Uses all available on the job training tools to train new room attendants and provide follow-up training as necessary. • Establishes and maintains open, collaborative relationships with employees and verifies employees do the same with them. • Schedules employees to business demands and for tracks employee time and attendance. • Verifies employees understand expectations and parameters. • Verifies property policies are administered fairly and consistently, disciplinary procedures and documentation are completed according to Standard and Local Operating Procedures (SOPs and LSOPs) and support the Peer Review Process, where applicable. • Supervises staffing levels to verify that guest service, operational needs, and financial objectives are met. • Observes service behaviors of employees and provides feedback to individuals. • Verifies employee recognition is taking place on all shifts. • Participates in an on-going employee recognition program. • Solicits employee feedback, utilizes an “open door” policy, and reviews employee satisfaction results to identify and address employee problems or concerns. • Participates in employee progressive discipline procedures. • Celebrates successes and publicly recognizes the contributions of team members. Ensuring Exceptional Customer Service • Sets a positive example for guest relations. • Understands the brand's service culture. • Participates in the development and implementation of corrective action plans to improve guest satisfaction. • Empowers employees to provide excellent customer service. • Emphasizes guest satisfaction during all departmental meetings and focuses on continuous improvement. • Responds to and handles guest problems and complaints. • Strives to improve service performance. Marriott International is an equal opportunity employer. We believe in hiring a diverse workforce and sustaining an inclusive, people-first culture. We are committed to non-discrimination on any protected basis, such as disability and veteran status, or any other basis covered under applicable law.",
+					"jobTitleSnippet": "",
+					"searchTextSnippet": ""
+				},
+				"canonical_url": "https://jobs.marriott.com/jobs/21056177?lang=en-us",
+				"last_mod": "2021-06-04T08:35:42+0000",
+				"gdpr": false
+			},
+			"create_date": "2021-06-04T08:35:42+0000",
+			"category": [" Housekeeping & Laundry"],
+			"full_location": "Incheon, Korea, Republic of; Incheon, Korea, Republic of",
+			"multipleLocations": true,
+			"short_location": "Multiple"
+		}
+	}, {
+		"data": {
+			"slug": "21056114",
+			"language": "en-us",
+			"languages": ["en-us", "zh-cn"],
+			"title": "Supervisor-Sales",
+			"description": "Posting Date Jun 04, 2021 Job Number 21056114 Job Category Sales & Marketing Location Four Points by Sheraton Chengdu Anren, No.198 Yingbin Road, Chengdu, Sichuan, China VIEW ON MAP Brand Four Points Schedule Full-Time Relocation? N Position Type Non-Management Located Remotely? N Where timeless classics are woven with modern details. Where business meets pleasure. Where even when you’re global, you can experience the local. Designed for the independent traveler seeking balance, there’s Four Points. POSITION SUMMARY Contact appropriate individual or department (e.g., Sales, Data Administration, Accounting) as necessary to resolve guest calls, requests, or problems. Use sales techniques that maximize revenue while maintaining existing guest loyalty to Marriott, including up-selling. Determine and give complimentaries to guests as gifts for their patronage (e.g., rewards points, show tickets, gift certificates). Promote awareness of brand image internally and externally. Process requests for redeeming Marriott Rewards points. Process all reservation requests, changes, and cancellations received by phone, fax, or mail. Enter Marriott Rewards information into appropriate software when taking guest reservations. Answer, record, and process all guest calls, requests, questions, or concerns. Perform general office duties to support Sales & Marketing (e.g., filing, sending emails, typing, faxing). Assist management in training and motivating employees; serve as a role model. Follow all company policies and procedures; ensure uniform and personal appearance are clean and professional; maintain confidentiality of proprietary information; protect company assets. Welcome and acknowledge all guests according to company standards; anticipate and address guests’ service needs; thank guests with genuine appreciation. Speak with others using clear and professional language; prepare and review written documents accurately and completely; answer telephones using appropriate etiquette. Develop and maintain positive working relationships with others; support team to reach common goals; listen and respond appropriately to the concerns of other employees. Monitor the performance of others to ensure adherence to quality expectations and standards. Read and visually verify information in a variety of formats. Move, lift, carry, push, pull, and place objects weighing less than or equal to 10 pounds without assistance. Perform other reasonable job duties as requested by Supervisors. Marriott International is an equal opportunity employer. We believe in hiring a diverse workforce and sustaining an inclusive, people-first culture. We are committed to non-discrimination on any protected basis, such as disability and veteran status, or any other basis covered under applicable law.",
+			"location_name": "Four Points by Sheraton Chengdu Anren",
+			"street_address": "No.198 Yingbin Road",
+			"city": "Chengdu",
+			"state": "Sichuan",
+			"country": "China",
+			"country_code": "CN",
+			"location_type": "LAT_LNG",
+			"latitude": 30.9721077,
+			"longitude": 103.6515625,
+			"additional_locations": [{
+				"state": "Sichuan",
+				"country": "China",
+				"country_code": "CN",
+				"latitude": 30.26380319999999,
+				"longitude": 102.8054753
+			}],
+			"categories": [{
+				"name": "Sales & Marketing"
+			}],
+			"tags": ["1FWBR"],
+			"brand": "Four Points",
+			"recruiter_name": "Cherry Hu",
+			"promotion_value": 0,
+			"experience_levels": ["Full-Time"],
+			"benefits": ["VISION", "SICK_DAYS", "DOMESTIC_PARTNER", "VACATION", "DENTAL", "LIFE_INSURANCE", "PARENTAL_LEAVE", "RETIREMENT_PLAN", "MEDICAL"],
+			"industry": "Hospitality",
+			"hiring_organization": "Four Points",
+			"hiring_organization_logo": "four_points.jpg",
+			"posted_date": "June 4, 2021",
+			"apply_url": "https://ejwl.fa.us2.oraclecloud.com:443/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/21056114/apply/email",
+			"internal": false,
+			"searchable": true,
+			"applyable": true,
+			"li_easy_applyable": false,
+			"ats_code": "marriott-prod-orc",
+			"keyword_searchables": ["Four Points by Sheraton Chengdu Anren"],
+			"meta_data": {
+				"ats": "oracle recruiting cloud",
+				"ats_id": "21056114",
+				"ats_instance": "marriott-prod-orc",
+				"client_code": "marriott",
+				"import_source": "jib-feed-importer",
+				"job_band": " ",
+				"job_description_url": "https://marriott.taleo.net/careersection/2/jobdetail.ftl?job=21056114&lang=en",
+				"maps_link": "https://gaode.com/search?query=Four+Points+by+Sheraton+Chengdu+Anren%2CChengdu",
+				"position_type": "Non-Management",
+				"question_sets": [],
+				"recruiter_email": "Cherry.Y.Hu@fourpoints.com",
+				"redirectOnApply": true,
+				"googlejobs": {
+					"companyName": "projects/helpful-passage-853/tenants/cb22eb5b-7e00-0000-0000-007edad744d3/companies/eeddf0ec-b3ce-4c18-8d64-d168c82556d8",
+					"jobName": "projects/helpful-passage-853/tenants/cb22eb5b-7e00-0000-0000-007edad744d3/jobs/130391887539249862",
+					"jobHash": "5e2c6a6b694f9bd0a5a624a996ad671b",
+					"derivedInfo": {
+						"jobCategories": ["SALES_AND_RETAIL", "MANAGEMENT"],
+						"locations": [{
+							"latLng": {
+								"latitude": 30.9721077,
+								"longitude": 103.6515625
+							},
+							"locationType": "STREET_ADDRESS",
+							"postalAddress": {
+								"addressLines": ["Ying Bin Lu, Dujiangyan Shi, Chengdu Shi, Sichuan Sheng, China"],
+								"administrativeArea": "Sichuan Sheng",
+								"languageCode": "",
+								"locality": "Chengdu Shi",
+								"organization": "",
+								"postalCode": "",
+								"recipients": [],
+								"regionCode": "CN",
+								"revision": 0,
+								"sortingCode": "",
+								"sublocality": "Dujiangyan Shi"
+							},
+							"radiusInMiles": 0.0010122891078453641
+						}, {
+							"latLng": {
+								"latitude": 30.26380319999999,
+								"longitude": 102.8054753
+							},
+							"locationType": "ADMINISTRATIVE_AREA",
+							"postalAddress": {
+								"addressLines": ["Sichuan, China"],
+								"administrativeArea": "Sichuan",
+								"languageCode": "",
+								"locality": "",
+								"organization": "",
+								"postalCode": "",
+								"recipients": [],
+								"regionCode": "CN",
+								"revision": 0,
+								"sortingCode": "",
+								"sublocality": ""
+							},
+							"radiusInMiles": 0.2744615135008972
+						}]
+					},
+					"jobSummary": "Posting Date Jun 04, 2021 Job Number 21056114 Job Category Sales & Marketing Location Four Points by Sheraton Chengdu Anren, No.198 Yingbin Road, Chengdu, Sichuan, China VIEW ON MAP Brand Four Points Schedule Full-Time Relocation? N Position Type Non-Management Located Remotely? N Where timeless classics are woven with modern details. Where business meets pleasure. Where even when you’re global, you can experience the local. Designed for the independent traveler seeking balance, there’s Four Points. POSITION SUMMARY Contact appropriate individual or department (e.g., Sales, Data Administration, Accounting) as necessary to resolve guest calls, requests, or problems. Use sales techniques that maximize revenue while maintaining existing guest loyalty to Marriott, including up-selling. Determine and give complimentaries to guests as gifts for their patronage (e.g., rewards points, show tickets, gift certificates). Promote awareness of brand image internally and externally. Process requests for redeeming Marriott Rewards points. Process all reservation requests, changes, and cancellations received by phone, fax, or mail. Enter Marriott Rewards information into appropriate software when taking guest reservations. Answer, record, and process all guest calls, requests, questions, or concerns. Perform general office duties to support Sales & Marketing (e.g., filing, sending emails, typing, faxing). Assist management in training and motivating employees; serve as a role model. Follow all company policies and procedures; ensure uniform and personal appearance are clean and professional; maintain confidentiality of proprietary information; protect company assets. Welcome and acknowledge all guests according to company standards; anticipate and address guests’ service needs; thank guests with genuine appreciation. Speak with others using clear and professional language; prepare and review written documents accurately and completely; answer telephones using appropriate etiquette. Develop and maintain positive working relationships with others; support team to reach common goals; listen and respond appropriately to the concerns of other employees. Monitor the performance of others to ensure adherence to quality expectations and standards. Read and visually verify information in a variety of formats. Move, lift, carry, push, pull, and place objects weighing less than or equal to 10 pounds without assistance. Perform other reasonable job duties as requested by Supervisors. Marriott International is an equal opportunity employer. We believe in hiring a diverse workforce and sustaining an inclusive, people-first culture. We are committed to non-discrimination on any protected basis, such as disability and veteran status, or any other basis covered under applicable law.",
+					"jobTitleSnippet": "",
+					"searchTextSnippet": ""
+				},
+				"canonical_url": "https://jobs.marriott.com/jobs/21056114?lang=en-us",
+				"last_mod": "2021-06-04T05:31:44+0000",
+				"gdpr": false
+			},
+			"create_date": "2021-06-04T05:31:44+0000",
+			"category": [" Sales & Marketing"],
+			"full_location": "Chengdu, China; Sichuan, China",
+			"multipleLocations": true,
+			"short_location": "Multiple"
+		}
+	}, {
+		"data": {
+			"slug": "21056067",
+			"language": "en-us",
+			"languages": ["en-us", "es-mx"],
+			"title": "JW Auxiliar de Piso",
+			"description": "Posting Date Jun 04, 2021 Job Number 21056067 Job Category Housekeeping & Laundry Location JW Marriott Cancun Resort & Spa, Blvd. Kukulcan, Km 14.5, Lote 40-A, Zona Hotelera, Cancun, Quintana Roo, Mexico VIEW ON MAP Brand Marriott Hotels Resorts Schedule Full-Time Relocation? N Position Type Non-Management Located Remotely? N Marriott International portfolio of brands includes both JW Marriott and Marriott Hotels. Marriott Hotels, Marriott International’s flagship brand with more than 500 global locations, is advancing the art of hosting so that our guests can travel brilliantly. As a host with Marriott Hotels, you will help keep this promise by delivering premium choices, sophisticated style, and well-crafted details. With your skills and imagination, together we will innovate and reinvent the future of travel. JW Marriott is part of Marriott International's luxury portfolio and consists of more than 80 beautiful properties in gateway cities and distinctive resort locations around the world. JW believes our associates come first. Because if you’re happy, our guests will be happy. It’s as simple as that. Our hotels offer a work experience unlike any other, where you’ll be part of a community and enjoy a true camaraderie with a diverse group of co-workers. JW creates opportunities for training, development, recognition and most importantly, a place where you can really pursue your passions in a luxury environment. Treating guests exceptionally starts with the way we take care of our associates. That’s The JW Treatment™. POSITION SUMMARY Respond promptly to requests from guests and other departments. Fill cart with supplies and transport cart to assigned area. Enter guest rooms following procedures for gaining access and ensuring vacancy before entering. Replace guest amenities and supplies in rooms. Replace dirty linens and terry with clean items. Make beds and fold terry. Clean bathrooms. Remove trash, dirty linen, and room service items. Check that all appliances are present in the room and in working order. Straighten desk items, furniture, and appliances. Dust, polish, and remove marks from walls and furnishings. Vacuum carpets and performs floor care duties (e.g., in guest rooms and hallway). Follow all company and safety and security policies and procedures; report any maintenance problems, safety hazards, accidents, or injuries; complete safety training and certifications; properly store flammable materials. Ensure uniform and personal appearance are clean and professional; maintain confidentiality of proprietary information. Welcome and acknowledge all guests according to company standards; anticipate and address guests’ service needs; assist individuals with disabilities; thank guests with genuine appreciation. Speak with others using clear and professional language. Support team to reach common goals. Ensure adherence to quality expectations and standards. Move, lift, carry, and place objects weighing less than or equal to 25 pounds without assistance and in excess of 25 pounds with assistance. Ability to push and pull a loaded housekeeping cart and other work-related equipment over sloping and uneven surfaces. Reach overhead and below the knees, including bending, twisting, pulling, and stooping. Stand, sit, kneel, or walk for an extended period across an entire work shift. Grasp, turn, and manipulate objects of varying size and weight, requiring fine motor skills and hand-eye coordination. Perform other reasonable job duties as requested by Supervisors. Marriott International is an equal opportunity employer. We believe in hiring a diverse workforce and sustaining an inclusive, people-first culture. We are committed to non-discrimination on any protected basis, such as disability and veteran status, or any other basis covered under applicable law.",
+			"location_name": "JW Marriott Cancun Resort & Spa",
+			"street_address": "Blvd. Kukulcan, Km 14.5, Lote 40-A, Zona Hotelera",
+			"city": "Cancun",
+			"state": "Quintana Roo",
+			"country": "Mexico",
+			"country_code": "MX",
+			"postal_code": "77500",
+			"location_type": "LAT_LNG",
+			"latitude": 21.087485,
+			"longitude": -86.770701,
+			"additional_locations": [{
+				"state": "Quintana Roo",
+				"country": "Mexico",
+				"country_code": "MX",
+				"latitude": 21.087485,
+				"longitude": -86.770701
+			}],
+			"categories": [{
+				"name": "Housekeeping & Laundry"
+			}],
+			"tags": ["39063"],
+			"brand": "Marriott Hotels Resorts",
+			"recruiter_name": "Monica Miranda",
+			"promotion_value": 0,
+			"experience_levels": ["Full-Time"],
+			"benefits": ["VISION", "SICK_DAYS", "DOMESTIC_PARTNER", "VACATION", "DENTAL", "LIFE_INSURANCE", "PARENTAL_LEAVE", "RETIREMENT_PLAN", "MEDICAL"],
+			"industry": "Hospitality",
+			"hiring_organization": "Marriott Hotels Resorts",
+			"posted_date": "June 4, 2021",
+			"apply_url": "https://ejwl.fa.us2.oraclecloud.com:443/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/21056067/apply/email",
+			"internal": false,
+			"searchable": true,
+			"applyable": true,
+			"li_easy_applyable": false,
+			"ats_code": "marriott-prod-orc",
+			"keyword_searchables": ["JW Marriott Cancun Resort & Spa"],
+			"meta_data": {
+				"ats": "oracle recruiting cloud",
+				"ats_id": "21056067",
+				"ats_instance": "marriott-prod-orc",
+				"client_code": "marriott",
+				"import_source": "jib-feed-importer",
+				"job_band": " ",
+				"job_description_url": "https://marriott.taleo.net/careersection/2/jobdetail.ftl?job=21056067&lang=en",
+				"maps_link": "https://www.google.com/maps?q=JW+Marriott+Cancun+Resort+%26+Spa%2CBlvd.+Kukulcan%2C+Km+14.5%2C+Lote+40-A%2C+Zona+Hotelera%2CCancun%2CQuintana+Roo%2CMX",
+				"position_type": "Non-Management",
+				"question_sets": [],
+				"recruiter_email": "Monica.Miranda@marriotthotels.com",
+				"redirectOnApply": true,
+				"googlejobs": {
+					"companyName": "projects/helpful-passage-853/tenants/cb22eb5b-7e00-0000-0000-007edad744d3/companies/eeddf0ec-b3ce-4c18-8d64-d168c82556d8",
+					"jobName": "projects/helpful-passage-853/tenants/cb22eb5b-7e00-0000-0000-007edad744d3/jobs/85116541328073414",
+					"jobHash": "831f5b449c180f879f4761703363b468",
+					"derivedInfo": {
+						"jobCategories": ["CLEANING_AND_FACILITIES"],
+						"locations": [{
+							"latLng": {
+								"latitude": 21.087485,
+								"longitude": -86.770701
+							},
+							"locationType": "STREET_ADDRESS",
+							"postalAddress": {
+								"addressLines": ["Blvd. Kukulcan km. 14.5, Zona Hotelera, 77500 Cancún, Q.R., Mexico"],
+								"administrativeArea": "Q.R.",
+								"languageCode": "",
+								"locality": "Cancún",
+								"organization": "",
+								"postalCode": "77500",
+								"recipients": [],
+								"regionCode": "MX",
+								"revision": 0,
+								"sortingCode": "",
+								"sublocality": "Zona Hotelera"
+							},
+							"radiusInMiles": 0.00007916014689815971
+						}, {
+							"latLng": {
+								"latitude": 21.087485,
+								"longitude": -86.770701
+							},
+							"locationType": "STREET_ADDRESS",
+							"postalAddress": {
+								"addressLines": ["Blvd. Kukulcan km. 14.5, Zona Hotelera, 77500 Cancún, Q.R., Mexico"],
+								"administrativeArea": "Q.R.",
+								"languageCode": "",
+								"locality": "Cancún",
+								"organization": "",
+								"postalCode": "77500",
+								"recipients": [],
+								"regionCode": "MX",
+								"revision": 0,
+								"sortingCode": "",
+								"sublocality": "Zona Hotelera"
+							},
+							"radiusInMiles": 0.00007916014689815971
+						}]
+					},
+					"jobSummary": "Posting Date Jun 04, 2021 Job Number 21056067 Job Category Housekeeping & Laundry Location JW Marriott Cancun Resort & Spa, Blvd. Kukulcan, Km 14.5, Lote 40-A, Zona Hotelera, Cancun, Quintana Roo, Mexico VIEW ON MAP Brand Marriott Hotels Resorts Schedule Full-Time Relocation? N Position Type Non-Management Located Remotely? N Marriott International portfolio of brands includes both JW Marriott and Marriott Hotels. Marriott Hotels, Marriott International’s flagship brand with more than 500 global locations, is advancing the art of hosting so that our guests can travel brilliantly. As a host with Marriott Hotels, you will help keep this promise by delivering premium choices, sophisticated style, and well-crafted details. With your skills and imagination, together we will innovate and reinvent the future of travel. JW Marriott is part of Marriott International's luxury portfolio and consists of more than 80 beautiful properties in gateway cities and distinctive resort locations around the world. JW believes our associates come first. Because if you’re happy, our guests will be happy. It’s as simple as that. Our hotels offer a work experience unlike any other, where you’ll be part of a community and enjoy a true camaraderie with a diverse group of co-workers. JW creates opportunities for training, development, recognition and most importantly, a place where you can really pursue your passions in a luxury environment. Treating guests exceptionally starts with the way we take care of our associates. That’s The JW Treatment™. POSITION SUMMARY Respond promptly to requests from guests and other departments. Fill cart with supplies and transport cart to assigned area. Enter guest rooms following procedures for gaining access and ensuring vacancy before entering. Replace guest amenities and supplies in rooms. Replace dirty linens and terry with clean items. Make beds and fold terry. Clean bathrooms. Remove trash, dirty linen, and room service items. Check that all appliances are present in the room and in working order. Straighten desk items, furniture, and appliances. Dust, polish, and remove marks from walls and furnishings. Vacuum carpets and performs floor care duties (e.g., in guest rooms and hallway). Follow all company and safety and security policies and procedures; report any maintenance problems, safety hazards, accidents, or injuries; complete safety training and certifications; properly store flammable materials. Ensure uniform and personal appearance are clean and professional; maintain confidentiality of proprietary information. Welcome and acknowledge all guests according to company standards; anticipate and address guests’ service needs; assist individuals with disabilities; thank guests with genuine appreciation. Speak with others using clear and professional language. Support team to reach common goals. Ensure adherence to quality expectations and standards. Move, lift, carry, and place objects weighing less than or equal to 25 pounds without assistance and in excess of 25 pounds with assistance. Ability to push and pull a loaded housekeeping cart and other work-related equipment over sloping and uneven surfaces. Reach overhead and below the knees, including bending, twisting, pulling, and stooping. Stand, sit, kneel, or walk for an extended period across an entire work shift. Grasp, turn, and manipulate objects of varying size and weight, requiring fine motor skills and hand-eye coordination. Perform other reasonable job duties as requested by Supervisors. Marriott International is an equal opportunity employer. We believe in hiring a diverse workforce and sustaining an inclusive, people-first culture. We are committed to non-discrimination on any protected basis, such as disability and veteran status, or any other basis covered under applicable law.",
+					"jobTitleSnippet": "",
+					"searchTextSnippet": ""
+				},
+				"canonical_url": "https://jobs.marriott.com/jobs/21056067?lang=en-us",
+				"last_mod": "2021-06-04T04:31:34+0000",
+				"gdpr": false
+			},
+			"create_date": "2021-06-04T04:31:34+0000",
+			"category": [" Housekeeping & Laundry"],
+			"full_location": "Cancun, Mexico; Quintana Roo, Mexico",
+			"multipleLocations": true,
+			"short_location": "Multiple"
+		}
+	}, {
+		"data": {
+			"slug": "21056149",
+			"language": "en-us",
+			"languages": ["en-us", "es-mx"],
+			"title": "Chef Pastelero",
+			"description": "Posting Date Jun 04, 2021 Job Number 21056149 Job Category Food and Beverage & Culinary Location Delta Hotels Riviera Nayarit An All-Inclusive Resort, Carretera Punta Mita Km 0.2, Puerto Vallarta, Nayarit, Mexico VIEW ON MAP Brand Delta Hotels & Resorts Schedule Full-Time Relocation? N Position Type Management Located Remotely? N With our diverse portfolio of locations, you’ll find Delta Hotels in world-renowned cities and prestigious resorts across Canada. Delta Hotels is a Marriott International brand and offers you the opportunity to find the hospitality job and career journey that's right for you. With more than 1100 managed properties and 19 brands you'll find Marriott International in your neighborhood and in more than 74 countries across the globe. Find Your World ™ at Delta Hotels. JOB SUMMARY Exhibits creative baking and decorating talents by personally performing tasks while leading the staff in preparing quality and consistent pastries for all areas. Works to continually improve guest and employee satisfaction while maintaining the operating budget. Leads development and training of team to improve results while maintaining standards. Must ensure sanitation and food standards are achieved. CANDIDATE PROFILE Education and Experience • High school diploma or GED; 4 years experience in the culinary, food and beverage, or related professional area. OR • 2-year degree from an accredited university in Culinary Arts, Hotel and Restaurant Management, or related major; 2 years experience in the culinary, food and beverage, or related professional area. CORE WORK ACTIVITIES Leading Pastry Culinary Team • Utilizes interpersonal and communication skills to lead, influence, and encourage others; advocates sound financial/business decision making; demonstrates honesty/integrity; leads by example. • Supervises and manages employees. Manages all day-to-day operations. Understands employee positions well enough to perform duties in employees' absence. • Encourages and builds mutual trust, respect, and cooperation among team members. • Serves as a role model to demonstrate appropriate behaviors. • Ensures and maintains the productivity level of employees. • Ensures employees understand expectations and parameters. • Establishes and maintains open, collaborative relationships with employees and ensures employees do the same within the team. • Solicits employee feedback, utilizes an \"open door\" policy and reviews employee satisfaction results to identify and address employee problems or concerns. • Leads shifts while personally preparing food items and executing requests based on required specifications. • Supervises and coordinates activities of cooks and workers engaged in food preparation. Ensuring Culinary Standards and Responsibilities are Met • Develops, designs, or creates new applications, ideas, relationships, systems, or products, including artistic contributions. • Recognizes superior quality products, presentations and flavor. • Maintains food preparation handling and correct storage standards. • Maintains purchasing, receiving and food storage standards. • Supports procedures for food & beverage portion and waste controls. • Follows proper handling and right temperature of all food products. • Supervises pastry preparation shift operations and ensures compliance with all Food & Beverage policies, standards and procedures. • Ensures compliance with all applicable laws and regulations. • Prepares and cooks foods of all types, either on a regular basis or for special guests or functions. • Checks the quality of raw and cooked food products to ensure that standards are met. • Assists in determining how food should be presented and creates decorative food displays. Ensuring Exceptional Customer Service • Provides services that are above and beyond for customer satisfaction and retention. • Manages day-to-day operations, ensuring the quality, standards and meeting the expectations of the customers on a daily basis. • Improves service by communicating and assisting individuals to understand guest needs, providing guidance, feedback, and individual coaching when needed. • Sets a positive example for guest relations. • Empowers employees to provide excellent customer service. • Emphasizes guest satisfaction during all departmental meetings and focuses on continuous improvement. • Strives to improve service performance. Maintaining Culinary Goals • Achieves and exceeds goals including performance goals, budget goals, team goals, etc. • Develops specific goals and plans to prioritize, organize, and accomplish your work. • Trains employees in safety procedures and supervises their ability to follow loss prevention policies to prevent accidents and control costs. • Purchases appropriate supplies and manage inventories according to budget. Supports Training and Development Activities • Ensures disciplinary procedures and documentation are completed according to Standard and Local Operating Procedures (SOPs and LSOPs) and support the Peer Review Process. • Participates in training staff on menu items including ingredients, preparation methods and unique tastes. • Reviews staffing levels to ensure that guest service, operational needs and financial objectives are met. • Ensures property policies are administered fairly and consistently. • Assists as needed in the interviewing and hiring of employee team members with appropriate skills. Additional Responsibilities • Provides information to supervisors, co-workers, and subordinates by telephone, in written form, e-mail, or in person. • Analyzes information and evaluates results to choose the best solution and solve problems. • Brings issues to the attention of the department manager and Human Resources as necessary. • Attends and participates in all pertinent meetings. Marriott International is an equal opportunity employer. We believe in hiring a diverse workforce and sustaining an inclusive, people-first culture. We are committed to non-discrimination on any protected basis, such as disability and veteran status, or any other basis covered under applicable law.",
+			"location_name": "Delta Hotels Riviera Nayarit An All-Inclusive Resort",
+			"street_address": "Carretera Punta Mita Km 0.2",
+			"city": "Puerto Vallarta",
+			"state": "Nayarit",
+			"country": "Mexico",
+			"country_code": "MX",
+			"postal_code": "63734",
+			"location_type": "LAT_LNG",
+			"latitude": 21.7513844,
+			"longitude": -104.8454619,
+			"additional_locations": [{
+				"city": "NAY",
+				"state": "Nayarit",
+				"country": "Mexico",
+				"country_code": "MX",
+				"latitude": 21.7513844,
+				"longitude": -104.8454619
+			}, {
+				"state": "Nayarit",
+				"country": "Mexico",
+				"country_code": "MX",
+				"latitude": 21.7513844,
+				"longitude": -104.8454619
+			}],
+			"categories": [{
+				"name": "Food and Beverage & Culinary"
+			}],
+			"tags": ["17AHU", "management"],
+			"brand": "Delta Hotels & Resorts",
+			"recruiter_name": "Evelia Rodriguez",
+			"promotion_value": 0,
+			"experience_levels": ["Full-Time"],
+			"benefits": ["VISION", "SICK_DAYS", "DOMESTIC_PARTNER", "VACATION", "DENTAL", "LIFE_INSURANCE", "PARENTAL_LEAVE", "RETIREMENT_PLAN", "MEDICAL"],
+			"industry": "Hospitality",
+			"hiring_organization": "Delta Hotels & Resorts",
+			"posted_date": "June 4, 2021",
+			"apply_url": "https://ejwl.fa.us2.oraclecloud.com:443/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/21056149/apply/email",
+			"internal": false,
+			"searchable": true,
+			"applyable": true,
+			"li_easy_applyable": false,
+			"ats_code": "marriott-prod-orc",
+			"keyword_searchables": ["Delta Hotels Riviera Nayarit An All-Inclusive Resort"],
+			"meta_data": {
+				"ats": "oracle recruiting cloud",
+				"ats_id": "21056149",
+				"ats_instance": "marriott-prod-orc",
+				"client_code": "marriott",
+				"import_source": "jib-feed-importer",
+				"job_band": "RD 1 - Red",
+				"job_description_url": "https://marriott.taleo.net/careersection/2/jobdetail.ftl?job=21056149&lang=en",
+				"maps_link": "https://www.google.com/maps?q=Delta+Hotels+Riviera+Nayarit+An+All-Inclusive+Resort%2CCarretera+Punta+Mita+Km+0.2%2CPuerto+Vallarta%2CNayarit%2CMX",
+				"position_type": "Management",
+				"question_sets": [],
+				"recruiter_email": "Evelia.Rodriguez@marriott.com",
+				"redirectOnApply": true,
+				"googlejobs": {
+					"companyName": "projects/helpful-passage-853/tenants/cb22eb5b-7e00-0000-0000-007edad744d3/companies/eeddf0ec-b3ce-4c18-8d64-d168c82556d8",
+					"jobName": "projects/helpful-passage-853/tenants/cb22eb5b-7e00-0000-0000-007edad744d3/jobs/73169059002098374",
+					"jobHash": "23fb8ef816d2a5c19a701a598db62528",
+					"derivedInfo": {
+						"jobCategories": ["RESTAURANT_AND_HOSPITALITY"],
+						"locations": [{
+							"latLng": {
+								"latitude": 21.7513844,
+								"longitude": -104.8454619
+							},
+							"locationType": "ADMINISTRATIVE_AREA",
+							"postalAddress": {
+								"addressLines": ["Nayarit, Mexico"],
+								"administrativeArea": "Nay.",
+								"languageCode": "",
+								"locality": "",
+								"organization": "",
+								"postalCode": "",
+								"recipients": [],
+								"regionCode": "MX",
+								"revision": 0,
+								"sortingCode": "",
+								"sublocality": ""
+							},
+							"radiusInMiles": 0.08865116724272508
+						}, {
+							"latLng": {
+								"latitude": 21.7513844,
+								"longitude": -104.8454619
+							},
+							"locationType": "ADMINISTRATIVE_AREA",
+							"postalAddress": {
+								"addressLines": ["Nayarit, Mexico"],
+								"administrativeArea": "Nay.",
+								"languageCode": "",
+								"locality": "",
+								"organization": "",
+								"postalCode": "",
+								"recipients": [],
+								"regionCode": "MX",
+								"revision": 0,
+								"sortingCode": "",
+								"sublocality": ""
+							},
+							"radiusInMiles": 0.08865116724272508
+						}, {
+							"latLng": {
+								"latitude": 21.7513844,
+								"longitude": -104.8454619
+							},
+							"locationType": "ADMINISTRATIVE_AREA",
+							"postalAddress": {
+								"addressLines": ["Nayarit, Mexico"],
+								"administrativeArea": "Nay.",
+								"languageCode": "",
+								"locality": "",
+								"organization": "",
+								"postalCode": "",
+								"recipients": [],
+								"regionCode": "MX",
+								"revision": 0,
+								"sortingCode": "",
+								"sublocality": ""
+							},
+							"radiusInMiles": 0.08865116724272508
+						}]
+					},
+					"jobSummary": "Posting Date Jun 04, 2021 Job Number 21056149 Job Category Food and Beverage & Culinary Location Delta Hotels Riviera Nayarit An All-Inclusive Resort, Carretera Punta Mita Km 0.2, Puerto Vallarta, Nayarit, Mexico VIEW ON MAP Brand Delta Hotels & Resorts Schedule Full-Time Relocation? N Position Type Management Located Remotely? N With our diverse portfolio of locations, you’ll find Delta Hotels in world-renowned cities and prestigious resorts across Canada. Delta Hotels is a Marriott International brand and offers you the opportunity to find the hospitality job and career journey that's right for you. With more than 1100 managed properties and 19 brands you'll find Marriott International in your neighborhood and in more than 74 countries across the globe. Find Your World ™ at Delta Hotels. JOB SUMMARY Exhibits creative baking and decorating talents by personally performing tasks while leading the staff in preparing quality and consistent pastries for all areas. Works to continually improve guest and employee satisfaction while maintaining the operating budget. Leads development and training of team to improve results while maintaining standards. Must ensure sanitation and food standards are achieved. CANDIDATE PROFILE Education and Experience • High school diploma or GED; 4 years experience in the culinary, food and beverage, or related professional area. OR • 2-year degree from an accredited university in Culinary Arts, Hotel and Restaurant Management, or related major; 2 years experience in the culinary, food and beverage, or related professional area. CORE WORK ACTIVITIES Leading Pastry Culinary Team • Utilizes interpersonal and communication skills to lead, influence, and encourage others; advocates sound financial/business decision making; demonstrates honesty/integrity; leads by example. • Supervises and manages employees. Manages all day-to-day operations. Understands employee positions well enough to perform duties in employees' absence. • Encourages and builds mutual trust, respect, and cooperation among team members. • Serves as a role model to demonstrate appropriate behaviors. • Ensures and maintains the productivity level of employees. • Ensures employees understand expectations and parameters. • Establishes and maintains open, collaborative relationships with employees and ensures employees do the same within the team. • Solicits employee feedback, utilizes an \"open door\" policy and reviews employee satisfaction results to identify and address employee problems or concerns. • Leads shifts while personally preparing food items and executing requests based on required specifications. • Supervises and coordinates activities of cooks and workers engaged in food preparation. Ensuring Culinary Standards and Responsibilities are Met • Develops, designs, or creates new applications, ideas, relationships, systems, or products, including artistic contributions. • Recognizes superior quality products, presentations and flavor. • Maintains food preparation handling and correct storage standards. • Maintains purchasing, receiving and food storage standards. • Supports procedures for food & beverage portion and waste controls. • Follows proper handling and right temperature of all food products. • Supervises pastry preparation shift operations and ensures compliance with all Food & Beverage policies, standards and procedures. • Ensures compliance with all applicable laws and regulations. • Prepares and cooks foods of all types, either on a regular basis or for special guests or functions. • Checks the quality of raw and cooked food products to ensure that standards are met. • Assists in determining how food should be presented and creates decorative food displays. Ensuring Exceptional Customer Service • Provides services that are above and beyond for customer satisfaction and retention. • Manages day-to-day operations, ensuring the quality, standards and meeting the expectations of the customers on a daily basis. • Improves service by communicating and assisting individuals to understand guest needs, providing guidance, feedback, and individual coaching when needed. • Sets a positive example for guest relations. • Empowers employees to provide excellent customer service. • Emphasizes guest satisfaction during all departmental meetings and focuses on continuous improvement. • Strives to improve service performance. Maintaining Culinary Goals • Achieves and exceeds goals including performance goals, budget goals, team goals, etc. • Develops specific goals and plans to prioritize, organize, and accomplish your work. • Trains employees in safety procedures and supervises their ability to follow loss prevention policies to prevent accidents and control costs. • Purchases appropriate supplies and manage inventories according to budget. Supports Training and Development Activities • Ensures disciplinary procedures and documentation are completed according to Standard and Local Operating Procedures (SOPs and LSOPs) and support the Peer Review Process. • Participates in training staff on menu items including ingredients, preparation methods and unique tastes. • Reviews staffing levels to ensure that guest service, operational needs and financial objectives are met. • Ensures property policies are administered fairly and consistently. • Assists as needed in the interviewing and hiring of employee team members with appropriate skills. Additional Responsibilities • Provides information to supervisors, co-workers, and subordinates by telephone, in written form, e-mail, or in person. • Analyzes information and evaluates results to choose the best solution and solve problems. • Brings issues to the attention of the department manager and Human Resources as necessary. • Attends and participates in all pertinent meetings. Marriott International is an equal opportunity employer. We believe in hiring a diverse workforce and sustaining an inclusive, people-first culture. We are committed to non-discrimination on any protected basis, such as disability and veteran status, or any other basis covered under applicable law.",
+					"jobTitleSnippet": "",
+					"searchTextSnippet": ""
+				},
+				"canonical_url": "https://jobs.marriott.com/jobs/21056149?lang=en-us",
+				"last_mod": "2021-06-04T07:33:01+0000",
+				"gdpr": false
+			},
+			"create_date": "2021-06-04T07:33:01+0000",
+			"category": [" Food and Beverage & Culinary"],
+			"full_location": "Puerto Vallarta, Mexico; NAY, Mexico; Nayarit, Mexico",
+			"multipleLocations": true,
+			"short_location": "Multiple"
+		}
+	}, {
+		"data": {
+			"slug": "21056066",
+			"language": "en-us",
+			"languages": ["en-us"],
+			"title": "Colony Restaurant - Food & Beverage Operations Executive",
+			"description": "Posting Date Jun 04, 2021 Job Number 21056066 Job Category Food and Beverage & Culinary Location The Ritz-Carlton Millenia Singapore, Marina Bay, Singapore, Singapore, Singapore VIEW ON MAP Brand The Ritz-Carlton Schedule Full-Time Relocation? N Position Type Non-Management Located Remotely? N At more than 80 award-winning properties worldwide, The Ritz-Carlton Ladies and Gentlemen create experiences so exceptional that long after a guest stays with us, the experience stays with them. As the premier worldwide provider of luxury experiences, we set the standard for rare and special luxury service the world over. We invite you to explore The Ritz-Carlton. POSITION SUMMARY Communicate service needs to chefs and stewards throughout functions. Total charges for group functions, and prepare and present checks to group contacts for payment. Ensure banquet rooms, restaurants, and coffee breaks are ready for service. Ensure proper centerpieces are displayed on every table. Inspect the cleanliness and presentation of all china, glass, and silver prior to use. Check in with guests to ensure satisfaction. Set tables according to type of event and service standards. Communicate additional meal requirements, allergies, dietary needs, and special requests to the kitchen. Maintain cleanliness of work areas throughout the day. Follow all company and safety and security policies and procedures; report accidents, injuries, and unsafe work conditions to manager; and complete safety training and certifications. Ensure uniform and personal appearance are clean and professional, maintain confidentiality of proprietary information, and protect company assets. Welcome and acknowledge all guests according to company standards. Speak with others using clear and professional language, and answer telephones using appropriate etiquette. Develop and maintain positive working relationships with others, support team to reach common goals, and listen and respond appropriately to the concerns of other employees. Ensure adherence to quality expectations and standards. Move, lift, carry, push, pull, and place objects weighing less than or equal to 25 pounds without assistance. Stand, sit, or walk for an extended period of time. Perform other reasonable job duties as requested by Supervisors. Marriott International is an equal opportunity employer. We believe in hiring a diverse workforce and sustaining an inclusive, people-first culture. We are committed to non-discrimination on any protected basis, such as disability and veteran status, or any other basis covered under applicable law.",
+			"location_name": "The Ritz-Carlton Millenia Singapore",
+			"street_address": "Marina Bay",
+			"city": "Singapore",
+			"state": "Singapore",
+			"country": "Singapore",
+			"country_code": "SG",
+			"postal_code": "39799",
+			"location_type": "LAT_LNG",
+			"latitude": 1.2944085,
+			"longitude": 103.8560531,
+			"additional_locations": [{
+				"state": "Singapore",
+				"country": "Singapore",
+				"country_code": "SG",
+				"latitude": 1.352083,
+				"longitude": 103.819836
+			}],
+			"categories": [{
+				"name": "Food and Beverage & Culinary"
+			}],
+			"tags": ["73R32"],
+			"brand": "The Ritz-Carlton",
+			"recruiter_name": "SHEENA LEONG",
+			"promotion_value": 0,
+			"experience_levels": ["Full-Time"],
+			"benefits": ["VISION", "SICK_DAYS", "DOMESTIC_PARTNER", "VACATION", "DENTAL", "LIFE_INSURANCE", "PARENTAL_LEAVE", "RETIREMENT_PLAN", "MEDICAL"],
+			"industry": "Hospitality",
+			"hiring_organization": "The Ritz-Carlton",
+			"hiring_organization_logo": "the_ritz_carlton.jpg",
+			"posted_date": "June 4, 2021",
+			"apply_url": "https://ejwl.fa.us2.oraclecloud.com:443/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/21056066/apply/email",
+			"internal": false,
+			"searchable": true,
+			"applyable": true,
+			"li_easy_applyable": false,
+			"ats_code": "marriott-prod-orc",
+			"keyword_searchables": ["The Ritz-Carlton Millenia Singapore"],
+			"meta_data": {
+				"ats": "oracle recruiting cloud",
+				"ats_id": "21056066",
+				"ats_instance": "marriott-prod-orc",
+				"client_code": "marriott",
+				"import_source": "jib-feed-importer",
+				"job_band": " ",
+				"job_description_url": "https://marriott.taleo.net/careersection/2/jobdetail.ftl?job=21056066&lang=en",
+				"maps_link": "https://www.google.com/maps?q=The+Ritz-Carlton+Millenia+Singapore%2CMarina+Bay%2CSingapore%2CSingapore%2CSG",
+				"position_type": "Non-Management",
+				"question_sets": [],
+				"recruiter_email": "sheena.leong@ritzcarlton.com",
+				"redirectOnApply": true,
+				"googlejobs": {
+					"companyName": "projects/helpful-passage-853/tenants/cb22eb5b-7e00-0000-0000-007edad744d3/companies/eeddf0ec-b3ce-4c18-8d64-d168c82556d8",
+					"jobName": "projects/helpful-passage-853/tenants/cb22eb5b-7e00-0000-0000-007edad744d3/jobs/86310610955838150",
+					"jobHash": "8944025517c8e5f71d70eb10115265db",
+					"derivedInfo": {
+						"jobCategories": ["MANAGEMENT", "RESTAURANT_AND_HOSPITALITY"],
+						"locations": [{
+							"latLng": {
+								"latitude": 1.2944085,
+								"longitude": 103.8560531
+							},
+							"locationType": "STREET_ADDRESS",
+							"postalAddress": {
+								"addressLines": ["30 Beach Road, Nicoll Hwy, Access Via, Singapore 189763"],
+								"administrativeArea": "",
+								"languageCode": "",
+								"locality": "Singapore",
+								"organization": "",
+								"postalCode": "189763",
+								"recipients": [],
+								"regionCode": "SG",
+								"revision": 0,
+								"sortingCode": "",
+								"sublocality": ""
+							},
+							"radiusInMiles": 0.0000818428557144039
+						}, {
+							"latLng": {
+								"latitude": 1.352083,
+								"longitude": 103.819836
+							},
+							"locationType": "COUNTRY",
+							"postalAddress": {
+								"addressLines": ["Singapore"],
+								"administrativeArea": "",
+								"languageCode": "",
+								"locality": "",
+								"organization": "",
+								"postalCode": "",
+								"recipients": [],
+								"regionCode": "SG",
+								"revision": 0,
+								"sortingCode": "",
+								"sublocality": ""
+							},
+							"radiusInMiles": 0.013012325755286313
+						}]
+					},
+					"jobSummary": "Posting Date Jun 04, 2021 Job Number 21056066 Job Category Food and Beverage & Culinary Location The Ritz-Carlton Millenia Singapore, Marina Bay, Singapore, Singapore, Singapore VIEW ON MAP Brand The Ritz-Carlton Schedule Full-Time Relocation? N Position Type Non-Management Located Remotely? N At more than 80 award-winning properties worldwide, The Ritz-Carlton Ladies and Gentlemen create experiences so exceptional that long after a guest stays with us, the experience stays with them. As the premier worldwide provider of luxury experiences, we set the standard for rare and special luxury service the world over. We invite you to explore The Ritz-Carlton. POSITION SUMMARY Communicate service needs to chefs and stewards throughout functions. Total charges for group functions, and prepare and present checks to group contacts for payment. Ensure banquet rooms, restaurants, and coffee breaks are ready for service. Ensure proper centerpieces are displayed on every table. Inspect the cleanliness and presentation of all china, glass, and silver prior to use. Check in with guests to ensure satisfaction. Set tables according to type of event and service standards. Communicate additional meal requirements, allergies, dietary needs, and special requests to the kitchen. Maintain cleanliness of work areas throughout the day. Follow all company and safety and security policies and procedures; report accidents, injuries, and unsafe work conditions to manager; and complete safety training and certifications. Ensure uniform and personal appearance are clean and professional, maintain confidentiality of proprietary information, and protect company assets. Welcome and acknowledge all guests according to company standards. Speak with others using clear and professional language, and answer telephones using appropriate etiquette. Develop and maintain positive working relationships with others, support team to reach common goals, and listen and respond appropriately to the concerns of other employees. Ensure adherence to quality expectations and standards. Move, lift, carry, push, pull, and place objects weighing less than or equal to 25 pounds without assistance. Stand, sit, or walk for an extended period of time. Perform other reasonable job duties as requested by Supervisors. Marriott International is an equal opportunity employer. We believe in hiring a diverse workforce and sustaining an inclusive, people-first culture. We are committed to non-discrimination on any protected basis, such as disability and veteran status, or any other basis covered under applicable law.",
+					"jobTitleSnippet": "",
+					"searchTextSnippet": ""
+				},
+				"canonical_url": "https://jobs.marriott.com/jobs/21056066?lang=en-us",
+				"last_mod": "2021-06-04T04:31:46+0000",
+				"gdpr": false
+			},
+			"create_date": "2021-06-04T04:31:46+0000",
+			"category": [" Food and Beverage & Culinary"],
+			"full_location": "Singapore, Singapore; Singapore, Singapore",
+			"multipleLocations": true,
+			"short_location": "Multiple"
+		}
+	}, {
+		"data": {
+			"slug": "21056173",
+			"language": "en-us",
+			"languages": ["en-us"],
+			"title": "Chef de Partie - Seasonal Tastes",
+			"description": "Posting Date Jun 04, 2021 Job Number 21056173 Job Category Food and Beverage & Culinary Location The Westin Desaru Coast Resort, Jalan Pantai 3, Bandar Penawar, Johor, Malaysia VIEW ON MAP Brand Westin Hotels & Resorts Schedule Full-Time Relocation? N Position Type Non-Management Located Remotely? N At Westin, we are committed to empowering the well-being of our guests by providing a refreshing environment, thoughtful amenities, and revitalizing programming to help ensure that they leave feeling better than when they arrived. We recognize that travel can be disruptive to our guests’ well-being, and we’re energized to assist as partners in helping them maintain control and soaring above it all while on the road. Everything we do is designed to help guests be at their best, and they appreciate our supportive attitude, anticipatory service and extensive knowledge on how to best assist them throughout their stay. We are looking for dynamic people who are excited to join the team and ready to jump into any situation to give a helping hand. If you’re someone who has is positive, adaptable and intuitive, and has a genuine interest in the well-being of others around you, we invite you to discover how at Westin, together we can rise. POSITION SUMMARY Prepare special meals or substitute items. Regulate temperature of ovens, broilers, grills, and roasters. Pull food from freezer storage to thaw in the refrigerator. Ensure proper portion, arrangement, and food garnish. Maintain food logs. Monitor the quality and quantity of food that is prepared. Communicate assistance needed during busy periods. Inform Chef of excess food items for use in daily specials. Inform Food & Beverage service staff of menu specials and out of stock menu items. Ensure the quality of the food items. Prepare and cook food according to recipes, quality standards, presentation standards, and food preparation checklist. Prepare cold foods. Assist management in hiring, training, scheduling, evaluating, counseling, disciplining, and motivating and coaching employees; serve as a role model. Follow all company and safety and security policies and procedures; report maintenance needs, accidents, injuries, and unsafe work conditions to manager; complete safety training and certifications. Ensure uniform and personal appearance are clean and professional; maintain confidentiality of proprietary information; protect company assets. Anticipate and address guests’ service needs. Speak with others using clear and professional language. Develop and maintain positive working relationships with others; support team to reach common goals; listen and respond appropriately to the concerns of other employees. Ensure adherence to quality expectations and standards. Stand, sit, or walk for an extended period of time. Reach overhead and below the knees, including bending, twisting, pulling, and stooping. Move, lift, carry, push, pull, and place objects weighing less than or equal to 25 pounds without assistance. Perform other reasonable job duties as requested by Supervisors. Marriott International is an equal opportunity employer. We believe in hiring a diverse workforce and sustaining an inclusive, people-first culture. We are committed to non-discrimination on any protected basis, such as disability and veteran status, or any other basis covered under applicable law.",
+			"location_name": "The Westin Desaru Coast Resort",
+			"street_address": "Jalan Pantai 3",
+			"city": "Bandar Penawar",
+			"state": "Johor",
+			"country": "Malaysia",
+			"country_code": "MY",
+			"postal_code": "81930",
+			"location_type": "LAT_LNG",
+			"latitude": 1.5419181,
+			"longitude": 104.2633641,
+			"additional_locations": [{
+				"state": "Malaysia",
+				"country": "Malaysia",
+				"country_code": "MY",
+				"latitude": 4.210484,
+				"longitude": 101.975766
+			}],
+			"categories": [{
+				"name": "Food and Beverage & Culinary"
+			}],
+			"tags": ["1DWOZ"],
+			"brand": "Westin Hotels & Resorts",
+			"recruiter_name": "Nur Izzati Mohamad Shah",
+			"promotion_value": 0,
+			"experience_levels": ["Full-Time"],
+			"benefits": ["VISION", "SICK_DAYS", "DOMESTIC_PARTNER", "VACATION", "DENTAL", "LIFE_INSURANCE", "PARENTAL_LEAVE", "RETIREMENT_PLAN", "MEDICAL"],
+			"industry": "Hospitality",
+			"hiring_organization": "Westin Hotels & Resorts",
+			"hiring_organization_logo": "westin.jpg",
+			"posted_date": "June 4, 2021",
+			"apply_url": "https://ejwl.fa.us2.oraclecloud.com:443/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/21056173/apply/email",
+			"internal": false,
+			"searchable": true,
+			"applyable": true,
+			"li_easy_applyable": false,
+			"ats_code": "marriott-prod-orc",
+			"keyword_searchables": ["The Westin Desaru Coast Resort"],
+			"meta_data": {
+				"ats": "oracle recruiting cloud",
+				"ats_id": "21056173",
+				"ats_instance": "marriott-prod-orc",
+				"client_code": "marriott",
+				"import_source": "jib-feed-importer",
+				"job_band": " ",
+				"job_description_url": "https://marriott.taleo.net/careersection/2/jobdetail.ftl?job=21056173&lang=en",
+				"maps_link": "https://www.google.com/maps?q=The+Westin+Desaru+Coast+Resort%2CJalan+Pantai+3%2CBandar+Penawar%2CJohor%2CMY",
+				"position_type": "Non-Management",
+				"question_sets": [],
+				"recruiter_email": "izzati.shah@westin.com",
+				"redirectOnApply": true,
+				"googlejobs": {
+					"companyName": "projects/helpful-passage-853/tenants/cb22eb5b-7e00-0000-0000-007edad744d3/companies/eeddf0ec-b3ce-4c18-8d64-d168c82556d8",
+					"jobName": "projects/helpful-passage-853/tenants/cb22eb5b-7e00-0000-0000-007edad744d3/jobs/101514337769661126",
+					"jobHash": "5a4e7f1d549b8ea9b04690dc2fe26065",
+					"derivedInfo": {
+						"jobCategories": ["RESTAURANT_AND_HOSPITALITY"],
+						"locations": [{
+							"latLng": {
+								"latitude": 1.5419181,
+								"longitude": 104.2633641
+							},
+							"locationType": "STREET_ADDRESS",
+							"postalAddress": {
+								"addressLines": ["Jln Pantai 3, 82200 Bandar Penawar, Johor, Malaysia"],
+								"administrativeArea": "Johor",
+								"languageCode": "",
+								"locality": "Bandar Penawar",
+								"organization": "",
+								"postalCode": "82200",
+								"recipients": [],
+								"regionCode": "MY",
+								"revision": 0,
+								"sortingCode": "",
+								"sublocality": ""
+							},
+							"radiusInMiles": 0.0000887076879515225
+						}, {
+							"latLng": {
+								"latitude": 4.210484,
+								"longitude": 101.975766
+							},
+							"locationType": "COUNTRY",
+							"postalAddress": {
+								"addressLines": ["Malaysia"],
+								"administrativeArea": "",
+								"languageCode": "",
+								"locality": "",
+								"organization": "",
+								"postalCode": "",
+								"recipients": [],
+								"regionCode": "MY",
+								"revision": 0,
+								"sortingCode": "",
+								"sublocality": ""
+							},
+							"radiusInMiles": 0.7765596215781869
+						}]
+					},
+					"jobSummary": "Posting Date Jun 04, 2021 Job Number 21056173 Job Category Food and Beverage & Culinary Location The Westin Desaru Coast Resort, Jalan Pantai 3, Bandar Penawar, Johor, Malaysia VIEW ON MAP Brand Westin Hotels & Resorts Schedule Full-Time Relocation? N Position Type Non-Management Located Remotely? N At Westin, we are committed to empowering the well-being of our guests by providing a refreshing environment, thoughtful amenities, and revitalizing programming to help ensure that they leave feeling better than when they arrived. We recognize that travel can be disruptive to our guests’ well-being, and we’re energized to assist as partners in helping them maintain control and soaring above it all while on the road. Everything we do is designed to help guests be at their best, and they appreciate our supportive attitude, anticipatory service and extensive knowledge on how to best assist them throughout their stay. We are looking for dynamic people who are excited to join the team and ready to jump into any situation to give a helping hand. If you’re someone who has is positive, adaptable and intuitive, and has a genuine interest in the well-being of others around you, we invite you to discover how at Westin, together we can rise. POSITION SUMMARY Prepare special meals or substitute items. Regulate temperature of ovens, broilers, grills, and roasters. Pull food from freezer storage to thaw in the refrigerator. Ensure proper portion, arrangement, and food garnish. Maintain food logs. Monitor the quality and quantity of food that is prepared. Communicate assistance needed during busy periods. Inform Chef of excess food items for use in daily specials. Inform Food & Beverage service staff of menu specials and out of stock menu items. Ensure the quality of the food items. Prepare and cook food according to recipes, quality standards, presentation standards, and food preparation checklist. Prepare cold foods. Assist management in hiring, training, scheduling, evaluating, counseling, disciplining, and motivating and coaching employees; serve as a role model. Follow all company and safety and security policies and procedures; report maintenance needs, accidents, injuries, and unsafe work conditions to manager; complete safety training and certifications. Ensure uniform and personal appearance are clean and professional; maintain confidentiality of proprietary information; protect company assets. Anticipate and address guests’ service needs. Speak with others using clear and professional language. Develop and maintain positive working relationships with others; support team to reach common goals; listen and respond appropriately to the concerns of other employees. Ensure adherence to quality expectations and standards. Stand, sit, or walk for an extended period of time. Reach overhead and below the knees, including bending, twisting, pulling, and stooping. Move, lift, carry, push, pull, and place objects weighing less than or equal to 25 pounds without assistance. Perform other reasonable job duties as requested by Supervisors. Marriott International is an equal opportunity employer. We believe in hiring a diverse workforce and sustaining an inclusive, people-first culture. We are committed to non-discrimination on any protected basis, such as disability and veteran status, or any other basis covered under applicable law.",
+					"jobTitleSnippet": "",
+					"searchTextSnippet": ""
+				},
+				"canonical_url": "https://jobs.marriott.com/jobs/21056173?lang=en-us",
+				"last_mod": "2021-06-04T08:35:40+0000",
+				"gdpr": false
+			},
+			"create_date": "2021-06-04T08:35:40+0000",
+			"category": [" Food and Beverage & Culinary"],
+			"full_location": "Bandar Penawar, Malaysia; Malaysia, Malaysia",
+			"multipleLocations": true,
+			"short_location": "Multiple"
+		}
+	}, {
+		"data": {
+			"slug": "21056093",
+			"language": "en-us",
+			"languages": ["en-us", "zh-cn"],
+			"title": "Bell Captain 行李房领班",
+			"description": "Posting Date Jun 04, 2021 Job Number 21056093 Job Category Rooms & Guest Services Operations Location Four Points by Sheraton Guiyang Huaxi, No.2 Huanghe RoadHuaxi, Guiyang, Guizhou, China VIEW ON MAP Brand Four Points Schedule Full-Time Relocation? N Position Type Non-Management Located Remotely? N Where timeless classics are woven with modern details. Where business meets pleasure. Where even when you’re global, you can experience the local. Designed for the independent traveler seeking balance, there’s Four Points. POSITION SUMMARY Greet guests and inform them of property amenities, services, and hours of operation, and local areas of interest and activities. Open doors and assist guests/visitors entering and leaving property. Assist with luggage storage and retrieval. Transport guest luggage to and from guest rooms and/or designated bell area. Assist guests/visitors in and out of vehicles, including assisting guests with loading/unloading luggage. Supply guests with directions. Arrange transportation (e.g., taxi cab, shuttle bus, limousine/sedan service) for guests/visitors, and record advance transportation request as needed. Dispatch bell staff or valet staff as needed. Communicate parking procedures to guests/visitors. Follow up with guests to ensure their requests or problems have been met to their satisfaction. Serve as a departmental role model, and assist management in hiring, training, scheduling, evaluating, counseling, disciplining, motivating and coaching employees. Develop and maintain positive working relationships with others. Follow all company policies and procedures; and report accidents, injuries, and unsafe work conditions to manager. Maintain awareness of undesirable persons on property premises. Ensure uniform and personal appearance are clean and professional and maintain confidentiality of proprietary information. Welcome and acknowledge all guests, anticipate and address guests’ service needs, assist individuals with disabilities, and thank guests with genuine appreciation. Speak with others using clear and professional language, and answer telephones using appropriate etiquette. Comply with quality assurance expectations and standards. Read and visually verify information in a variety of formats (e.g., small print). Move at a speed required to respond to work situations (e.g., run, walk, jog). Stand, sit, or walk for an extended period of time or for an entire work shift. Move, lift, carry, push, pull, and place objects weighing less than or equal to 50 pounds without assistance and objects weighing in excess of 75 pounds with assistance. Grasp, turn, and manipulate objects of varying size and weight, requiring fine motor skills and hand-eye coordination. Move over sloping, uneven, or slippery surfaces as well as up and down stairs and/or service ramps. Reach overhead and below the knees, including bending, twisting, pulling, and stooping. Perform other reasonable job duties as requested by Supervisors. Marriott International is an equal opportunity employer. We believe in hiring a diverse workforce and sustaining an inclusive, people-first culture. We are committed to non-discrimination on any protected basis, such as disability and veteran status, or any other basis covered under applicable law.",
+			"location_name": "Four Points by Sheraton Guiyang Huaxi",
+			"street_address": "No.2 Huanghe RoadHuaxi",
+			"city": "Guiyang",
+			"state": "Guizhou",
+			"country": "China",
+			"country_code": "CN",
+			"postal_code": "550000",
+			"location_type": "LAT_LNG",
+			"latitude": 26.518299,
+			"longitude": 106.701033,
+			"additional_locations": [{
+				"state": "Guizhou",
+				"country": "China",
+				"country_code": "CN",
+				"latitude": 26.8429645,
+				"longitude": 107.2902839
+			}],
+			"categories": [{
+				"name": "Rooms & Guest Services Operations"
+			}],
+			"tags": ["1FYKC"],
+			"brand": "Four Points",
+			"recruiter_name": "Oscar Rong Zhu",
+			"promotion_value": 0,
+			"experience_levels": ["Full-Time"],
+			"benefits": ["VISION", "SICK_DAYS", "DOMESTIC_PARTNER", "VACATION", "DENTAL", "LIFE_INSURANCE", "PARENTAL_LEAVE", "RETIREMENT_PLAN", "MEDICAL"],
+			"industry": "Hospitality",
+			"hiring_organization": "Four Points",
+			"hiring_organization_logo": "four_points.jpg",
+			"posted_date": "June 4, 2021",
+			"apply_url": "https://ejwl.fa.us2.oraclecloud.com:443/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/21056093/apply/email",
+			"internal": false,
+			"searchable": true,
+			"applyable": true,
+			"li_easy_applyable": false,
+			"ats_code": "marriott-prod-orc",
+			"keyword_searchables": ["Four Points by Sheraton Guiyang Huaxi"],
+			"meta_data": {
+				"ats": "oracle recruiting cloud",
+				"ats_id": "21056093",
+				"ats_instance": "marriott-prod-orc",
+				"client_code": "marriott",
+				"import_source": "jib-feed-importer",
+				"job_band": " ",
+				"job_description_url": "https://marriott.taleo.net/careersection/2/jobdetail.ftl?job=21056093&lang=en",
+				"maps_link": "https://gaode.com/search?query=Four+Points+by+Sheraton+Guiyang+Huaxi%2CGuiyang",
+				"position_type": "Non-Management",
+				"question_sets": [],
+				"recruiter_email": "OscarRong.Zhu@fourpoints.com",
+				"redirectOnApply": true,
+				"googlejobs": {
+					"companyName": "projects/helpful-passage-853/tenants/cb22eb5b-7e00-0000-0000-007edad744d3/companies/eeddf0ec-b3ce-4c18-8d64-d168c82556d8",
+					"jobName": "projects/helpful-passage-853/tenants/cb22eb5b-7e00-0000-0000-007edad744d3/jobs/83777336165442246",
+					"jobHash": "7d18f842a0b19b51673d4294a7f48ccf",
+					"derivedInfo": {
+						"jobCategories": ["TRANSPORTATION_AND_LOGISTICS", "RESTAURANT_AND_HOSPITALITY"],
+						"locations": [{
+							"latLng": {
+								"latitude": 26.518299,
+								"longitude": 106.701033
+							},
+							"locationType": "STREET_ADDRESS",
+							"postalAddress": {
+								"addressLines": ["182-2 Huanghe Rd, Huaxi Qu, Guiyang Shi, Guizhou Sheng, China, 550008"],
+								"administrativeArea": "Guizhou Sheng",
+								"languageCode": "",
+								"locality": "Guiyang Shi",
+								"organization": "",
+								"postalCode": "550008",
+								"recipients": [],
+								"regionCode": "CN",
+								"revision": 0,
+								"sortingCode": "",
+								"sublocality": "Huaxi Qu"
+							},
+							"radiusInMiles": 0.00007766712075671768
+						}, {
+							"latLng": {
+								"latitude": 26.8429645,
+								"longitude": 107.2902839
+							},
+							"locationType": "ADMINISTRATIVE_AREA",
+							"postalAddress": {
+								"addressLines": ["Guizhou, China"],
+								"administrativeArea": "Guizhou",
+								"languageCode": "",
+								"locality": "",
+								"organization": "",
+								"postalCode": "",
+								"recipients": [],
+								"regionCode": "CN",
+								"revision": 0,
+								"sortingCode": "",
+								"sublocality": ""
+							},
+							"radiusInMiles": 0.17156541229445393
+						}]
+					},
+					"jobSummary": "Posting Date Jun 04, 2021 Job Number 21056093 Job Category Rooms & Guest Services Operations Location Four Points by Sheraton Guiyang Huaxi, No.2 Huanghe RoadHuaxi, Guiyang, Guizhou, China VIEW ON MAP Brand Four Points Schedule Full-Time Relocation? N Position Type Non-Management Located Remotely? N Where timeless classics are woven with modern details. Where business meets pleasure. Where even when you’re global, you can experience the local. Designed for the independent traveler seeking balance, there’s Four Points. POSITION SUMMARY Greet guests and inform them of property amenities, services, and hours of operation, and local areas of interest and activities. Open doors and assist guests/visitors entering and leaving property. Assist with luggage storage and retrieval. Transport guest luggage to and from guest rooms and/or designated bell area. Assist guests/visitors in and out of vehicles, including assisting guests with loading/unloading luggage. Supply guests with directions. Arrange transportation (e.g., taxi cab, shuttle bus, limousine/sedan service) for guests/visitors, and record advance transportation request as needed. Dispatch bell staff or valet staff as needed. Communicate parking procedures to guests/visitors. Follow up with guests to ensure their requests or problems have been met to their satisfaction. Serve as a departmental role model, and assist management in hiring, training, scheduling, evaluating, counseling, disciplining, motivating and coaching employees. Develop and maintain positive working relationships with others. Follow all company policies and procedures; and report accidents, injuries, and unsafe work conditions to manager. Maintain awareness of undesirable persons on property premises. Ensure uniform and personal appearance are clean and professional and maintain confidentiality of proprietary information. Welcome and acknowledge all guests, anticipate and address guests’ service needs, assist individuals with disabilities, and thank guests with genuine appreciation. Speak with others using clear and professional language, and answer telephones using appropriate etiquette. Comply with quality assurance expectations and standards. Read and visually verify information in a variety of formats (e.g., small print). Move at a speed required to respond to work situations (e.g., run, walk, jog). Stand, sit, or walk for an extended period of time or for an entire work shift. Move, lift, carry, push, pull, and place objects weighing less than or equal to 50 pounds without assistance and objects weighing in excess of 75 pounds with assistance. Grasp, turn, and manipulate objects of varying size and weight, requiring fine motor skills and hand-eye coordination. Move over sloping, uneven, or slippery surfaces as well as up and down stairs and/or service ramps. Reach overhead and below the knees, including bending, twisting, pulling, and stooping. Perform other reasonable job duties as requested by Supervisors. Marriott International is an equal opportunity employer. We believe in hiring a diverse workforce and sustaining an inclusive, people-first culture. We are committed to non-discrimination on any protected basis, such as disability and veteran status, or any other basis covered under applicable law.",
+					"jobTitleSnippet": "",
+					"searchTextSnippet": ""
+				},
+				"canonical_url": "https://jobs.marriott.com/jobs/21056093?lang=en-us",
+				"last_mod": "2021-06-04T04:31:35+0000",
+				"gdpr": false
+			},
+			"create_date": "2021-06-04T04:31:35+0000",
+			"category": [" Rooms & Guest Services Operations"],
+			"full_location": "Guiyang, China; Guizhou, China",
+			"multipleLocations": true,
+			"short_location": "Multiple"
+		}
+	}],
+	"totalCount": 14122,
+	"count": 14122,
+	"filter": {
+		"displayLimit": 10,
+		"categories": {
+			"all": [{
+				"category": "Administrative",
+				"numJobs": 246
+			}, {
+				"category": "Brand Management",
+				"numJobs": 14
+			}, {
+				"category": "Development & Feasibility",
+				"numJobs": 2
+			}, {
+				"category": "Engineering & Facilities",
+				"numJobs": 877
+			}, {
+				"category": "Event Management",
+				"numJobs": 143
+			}, {
+				"category": "Finance & Accounting",
+				"numJobs": 629
+			}, {
+				"category": "Food and Beverage & Culinary",
+				"numJobs": 5355
+			}, {
+				"category": "Global Design",
+				"numJobs": 1
+			}, {
+				"category": "Golf, Fitness, & Entertainment",
+				"numJobs": 308
+			}, {
+				"category": "Health Care Services",
+				"numJobs": 6
+			}, {
+				"category": "Housekeeping & Laundry",
+				"numJobs": 1520
+			}, {
+				"category": "Human Resources",
+				"numJobs": 324
+			}, {
+				"category": "Information Technology",
+				"numJobs": 95
+			}, {
+				"category": "Landscaping & Grounds",
+				"numJobs": 37
+			}, {
+				"category": "Legal",
+				"numJobs": 1
+			}, {
+				"category": "Loss Prevention & Security",
+				"numJobs": 494
+			}, {
+				"category": "Management Development Programs/Interns",
+				"numJobs": 32
+			}, {
+				"category": "Owner & Franchise Services",
+				"numJobs": 1
+			}, {
+				"category": "Procurement, Purchasing, and Quality Assurance",
+				"numJobs": 113
+			}, {
+				"category": "Property Leadership",
+				"numJobs": 86
+			}, {
+				"category": "Public Relations & Communications",
+				"numJobs": 13
+			}, {
+				"category": "Reservations",
+				"numJobs": 176
+			}, {
+				"category": "Retail & Gift Shops",
+				"numJobs": 17
+			}, {
+				"category": "Revenue Management",
+				"numJobs": 61
+			}, {
+				"category": "Rooms & Guest Services Operations",
+				"numJobs": 2446
+			}, {
+				"category": "Sales & Marketing",
+				"numJobs": 795
+			}, {
+				"category": "Spa",
+				"numJobs": 330
+			}],
+			"shortlist": [{
+				"category": "Administrative",
+				"numJobs": 246
+			}, {
+				"category": "Brand Management",
+				"numJobs": 14
+			}, {
+				"category": "Development & Feasibility",
+				"numJobs": 2
+			}, {
+				"category": "Engineering & Facilities",
+				"numJobs": 877
+			}, {
+				"category": "Event Management",
+				"numJobs": 143
+			}, {
+				"category": "Finance & Accounting",
+				"numJobs": 629
+			}, {
+				"category": "Food and Beverage & Culinary",
+				"numJobs": 5355
+			}, {
+				"category": "Global Design",
+				"numJobs": 1
+			}, {
+				"category": "Golf, Fitness, & Entertainment",
+				"numJobs": 308
+			}, {
+				"category": "Health Care Services",
+				"numJobs": 6
+			}]
+		},
+		"brands": {
+			"all": [{
+				"brand": "AC Hotels",
+				"numJobs": 45
+			}, {
+				"brand": "Aloft Hotels",
+				"numJobs": 168
+			}, {
+				"brand": "Autograph Collection Hotels",
+				"numJobs": 188
+			}, {
+				"brand": "Bulgari Hotels & Resorts",
+				"numJobs": 68
+			}, {
+				"brand": "Corporate",
+				"numJobs": 199
+			}, {
+				"brand": "Courtyard by Marriott",
+				"numJobs": 947
+			}, {
+				"brand": "Delta Hotels & Resorts",
+				"numJobs": 138
+			}, {
+				"brand": "Edition Hotels",
+				"numJobs": 207
+			}, {
+				"brand": "Element Hotels",
+				"numJobs": 34
+			}, {
+				"brand": "Fairfield Inn & Suites",
+				"numJobs": 126
+			}, {
+				"brand": "Four Points",
+				"numJobs": 344
+			}, {
+				"brand": "Gaylord Hotels",
+				"numJobs": 305
+			}, {
+				"brand": "JW Marriott",
+				"numJobs": 245
+			}, {
+				"brand": "Kyo-Ya",
+				"numJobs": 3
+			}, {
+				"brand": "Le Méridien",
+				"numJobs": 350
+			}, {
+				"brand": "Marriott Executive Apartments",
+				"numJobs": 74
+			}, {
+				"brand": "Marriott Hotels Resorts",
+				"numJobs": 3364
+			}, {
+				"brand": "Marriott International, Inc.",
+				"numJobs": 90
+			}, {
+				"brand": "Marriott Vacations Worldwide",
+				"numJobs": 22
+			}, {
+				"brand": "Moxy Hotels",
+				"numJobs": 6
+			}, {
+				"brand": "Protea Hotels",
+				"numJobs": 2
+			}, {
+				"brand": "Renaissance Hotels",
+				"numJobs": 668
+			}, {
+				"brand": "Residence Inn",
+				"numJobs": 226
+			}, {
+				"brand": "Sheraton Hotels & Resorts",
+				"numJobs": 1443
+			}, {
+				"brand": "SpringHill Suites",
+				"numJobs": 76
+			}, {
+				"brand": "St. Regis Hotels & Resorts",
+				"numJobs": 721
+			}, {
+				"brand": "The Luxury Collection",
+				"numJobs": 360
+			}, {
+				"brand": "The Ritz-Carlton",
+				"numJobs": 1899
+			}, {
+				"brand": "TownePlace Suites",
+				"numJobs": 20
+			}, {
+				"brand": "Tribute Portfolio",
+				"numJobs": 17
+			}, {
+				"brand": "W Hotels",
+				"numJobs": 773
+			}, {
+				"brand": "Westin Hotels & Resorts",
+				"numJobs": 994
+			}],
+			"shortlist": [{
+				"brand": "AC Hotels",
+				"numJobs": 45
+			}, {
+				"brand": "Aloft Hotels",
+				"numJobs": 168
+			}, {
+				"brand": "Autograph Collection Hotels",
+				"numJobs": 188
+			}, {
+				"brand": "Bulgari Hotels & Resorts",
+				"numJobs": 68
+			}, {
+				"brand": "Corporate",
+				"numJobs": 199
+			}, {
+				"brand": "Courtyard by Marriott",
+				"numJobs": 947
+			}, {
+				"brand": "Delta Hotels & Resorts",
+				"numJobs": 138
+			}, {
+				"brand": "Edition Hotels",
+				"numJobs": 207
+			}, {
+				"brand": "Element Hotels",
+				"numJobs": 34
+			}, {
+				"brand": "Fairfield Inn & Suites",
+				"numJobs": 126
+			}]
+		},
+		"experienceLevels": {
+			"all": [{
+				"experienceLevel": "Full-Time",
+				"numJobs": 12998
+			}, {
+				"experienceLevel": "Part-Time",
+				"numJobs": 1124
+			}],
+			"shortlist": [{
+				"experienceLevel": "Full-Time",
+				"numJobs": 12998
+			}, {
+				"experienceLevel": "Part-Time",
+				"numJobs": 1124
+			}]
+		},
+		"locations": {
+			"all": [{
+				"city": "Abu Dhabi",
+				"state": "United Arab Emirates",
+				"country": "United Arab Emirates",
+				"count": 128
+			}, {
+				"city": "Albufeira",
+				"state": "Portugal",
+				"country": "Portugal",
+				"count": 36
+			}, {
+				"city": "Amelia Island",
+				"state": "Florida",
+				"country": "United States",
+				"count": 44
+			}, {
+				"city": "Anaheim",
+				"state": "California",
+				"country": "United States",
+				"count": 39
+			}, {
+				"city": "Aqaba",
+				"state": "Aqaba",
+				"country": "Jordan",
+				"count": 33
+			}, {
+				"city": "Aqaba",
+				"state": "Jordan",
+				"country": "Jordan",
+				"count": 33
+			}, {
+				"city": "Aspen",
+				"state": "Colorado",
+				"country": "United States",
+				"count": 75
+			}, {
+				"city": "Atlanta",
+				"state": "Georgia",
+				"country": "United States",
+				"count": 184
+			}, {
+				"city": "Aurora",
+				"state": "Colorado",
+				"country": "United States",
+				"count": 41
+			}, {
+				"city": "Austin",
+				"state": "Texas",
+				"country": "United States",
+				"count": 53
+			}, {
+				"city": "Avon",
+				"state": "Colorado",
+				"country": "United States",
+				"count": 30
+			}, {
+				"city": "Bal Harbour",
+				"state": "Florida",
+				"country": "United States",
+				"count": 50
+			}, {
+				"city": "Bandar Penawar",
+				"state": "Johor",
+				"country": "Malaysia",
+				"count": 33
+			}, {
+				"city": "Bangkok",
+				"state": "Bangkok",
+				"country": "Thailand",
+				"count": 56
+			}, {
+				"city": "Beijing",
+				"state": "Beijing",
+				"country": "China",
+				"count": 352
+			}, {
+				"city": "Bethesda",
+				"state": "Maryland",
+				"country": "United States",
+				"count": 103
+			}, {
+				"city": "Boston",
+				"state": "Massachusetts",
+				"country": "United States",
+				"count": 36
+			}, {
+				"city": "Cairo",
+				"state": "Egypt",
+				"country": "Egypt",
+				"count": 121
+			}, {
+				"city": "Cancun",
+				"state": "Quintana Roo",
+				"country": "Mexico",
+				"count": 81
+			}, {
+				"city": "Changsha",
+				"state": "Hunan",
+				"country": "China",
+				"count": 93
+			}, {
+				"city": "Changzhou",
+				"state": "Jiangsu",
+				"country": "China",
+				"count": 40
+			}, {
+				"city": "Charlotte",
+				"state": "North Carolina",
+				"country": "United States",
+				"count": 56
+			}, {
+				"city": "Chengdu",
+				"state": "Sichuan",
+				"country": "China",
+				"count": 94
+			}, {
+				"city": "Chicago",
+				"state": "Illinois",
+				"country": "United States",
+				"count": 66
+			}, {
+				"city": "Chongqing",
+				"state": "Chongqing",
+				"country": "China",
+				"count": 54
+			}, {
+				"city": "Clayton",
+				"state": "Missouri",
+				"country": "United States",
+				"count": 39
+			}, {
+				"city": "Coconut Grove",
+				"state": "Florida",
+				"country": "United States",
+				"count": 30
+			}, {
+				"city": "Dallas",
+				"state": "Texas",
+				"country": "United States",
+				"count": 142
+			}, {
+				"city": "Dana Point",
+				"state": "California",
+				"country": "United States",
+				"count": 47
+			}, {
+				"city": "Denver",
+				"state": "Colorado",
+				"country": "United States",
+				"count": 92
+			}, {
+				"city": "Doha",
+				"state": "Qatar",
+				"country": "Qatar",
+				"count": 236
+			}, {
+				"city": "Dorado",
+				"state": "Puerto Rico",
+				"country": "United States",
+				"count": 79
+			}, {
+				"city": "Dubai",
+				"state": "United Arab Emirates",
+				"country": "United Arab Emirates",
+				"count": 495
+			}, {
+				"city": "Fort Lauderdale",
+				"state": "Florida",
+				"country": "United States",
+				"count": 95
+			}, {
+				"city": "Fort Worth",
+				"state": "Texas",
+				"country": "United States",
+				"count": 54
+			}, {
+				"city": "Foshan",
+				"state": "Guangdong",
+				"country": "China",
+				"count": 36
+			}, {
+				"city": "Grand Cayman",
+				"state": "Cayman Islands",
+				"country": "Cayman Islands",
+				"count": 48
+			}, {
+				"city": "Grapevine",
+				"state": "Texas",
+				"country": "United States",
+				"count": 74
+			}, {
+				"city": "Greensboro",
+				"state": "Georgia",
+				"country": "United States",
+				"count": 63
+			}, {
+				"city": "Guangzhou",
+				"state": "Guangdong",
+				"country": "China",
+				"count": 148
+			}, {
+				"city": "Guiyang",
+				"state": "Guizhou",
+				"country": "China",
+				"count": 38
+			}, {
+				"city": "Haikou",
+				"state": "Hainan",
+				"country": "China",
+				"count": 132
+			}, {
+				"city": "Half Moon Bay",
+				"state": "California",
+				"country": "United States",
+				"count": 33
+			}, {
+				"city": "Hangzhou",
+				"state": "Zhejiang",
+				"country": "China",
+				"count": 46
+			}, {
+				"city": "Harbin",
+				"state": "Heilongjiang",
+				"country": "China",
+				"count": 45
+			}, {
+				"city": "Hefei",
+				"state": "Anhui",
+				"country": "China",
+				"count": 28
+			}, {
+				"city": "Hilton Head Island",
+				"state": "South Carolina",
+				"country": "United States",
+				"count": 42
+			}, {
+				"city": "Ho Chi Minh City",
+				"state": "Hồ Chí Minh",
+				"country": "Viet Nam",
+				"count": 27
+			}, {
+				"city": "Hollywood",
+				"state": "California",
+				"country": "United States",
+				"count": 48
+			}, {
+				"city": "Hong Kong",
+				"state": "Hong Kong",
+				"country": "Hong Kong",
+				"count": 89
+			}, {
+				"city": "Honolulu",
+				"state": "Hawaii",
+				"country": "United States",
+				"count": 45
+			}, {
+				"city": "Houston",
+				"state": "Texas",
+				"country": "United States",
+				"count": 105
+			}, {
+				"city": "Hurghada",
+				"state": "Egypt",
+				"country": "Egypt",
+				"count": 38
+			}, {
+				"city": "Ikot Ekpene",
+				"state": "Nigeria",
+				"country": "Nigeria",
+				"count": 33
+			}, {
+				"city": "Irvine",
+				"state": "California",
+				"country": "United States",
+				"count": 51
+			}, {
+				"city": "Istanbul",
+				"state": "Turkey",
+				"country": "Turkey",
+				"count": 126
+			}, {
+				"city": "Jakarta",
+				"state": "Daerah Khusus Ibukota Jakarta",
+				"country": "Indonesia",
+				"count": 34
+			}, {
+				"city": "Jinhua",
+				"state": "Zhejiang",
+				"country": "China",
+				"count": 44
+			}, {
+				"city": "Kansas City",
+				"state": "Missouri",
+				"country": "United States",
+				"count": 29
+			}, {
+				"city": "Kapalua",
+				"state": "Hawaii",
+				"country": "United States",
+				"count": 31
+			}, {
+				"city": "Key Biscayne",
+				"state": "Florida",
+				"country": "United States",
+				"count": 34
+			}, {
+				"city": "Kissimmee",
+				"state": "Florida",
+				"country": "United States",
+				"count": 80
+			}, {
+				"city": "Lahaina",
+				"state": "Hawaii",
+				"country": "United States",
+				"count": 82
+			}, {
+				"city": "Lake Buena Vista",
+				"state": "Florida",
+				"country": "United States",
+				"count": 97
+			}, {
+				"city": "London",
+				"state": "London",
+				"country": "United Kingdom",
+				"count": 128
+			}, {
+				"city": "Los Angeles",
+				"state": "California",
+				"country": "United States",
+				"count": 94
+			}, {
+				"city": "Luoyang",
+				"state": "Henan",
+				"country": "China",
+				"count": 74
+			}, {
+				"city": "Male",
+				"state": "Maldives",
+				"country": "Maldives",
+				"count": 32
+			}, {
+				"city": "Marana",
+				"state": "Arizona",
+				"country": "United States",
+				"count": 31
+			}, {
+				"city": "Marco Island",
+				"state": "Florida",
+				"country": "United States",
+				"count": 62
+			}, {
+				"city": "Melbourne",
+				"state": "VICTORIA",
+				"country": "Australia",
+				"count": 57
+			}, {
+				"city": "Meriden",
+				"state": "WARWICKSHIRE",
+				"country": "United Kingdom",
+				"count": 28
+			}, {
+				"city": "Mexico City",
+				"state": "MÉX",
+				"country": "Mexico",
+				"count": 65
+			}, {
+				"city": "Miami Beach",
+				"state": "Florida",
+				"country": "United States",
+				"count": 165
+			}, {
+				"city": "Miami",
+				"state": "Florida",
+				"country": "United States",
+				"count": 166
+			}, {
+				"city": "Moscow",
+				"state": "Central Federal District",
+				"country": "Russian Federation",
+				"count": 38
+			}, {
+				"city": "Moscow",
+				"state": "Russian Federation",
+				"country": "Russian Federation",
+				"count": 45
+			}, {
+				"city": "NAY",
+				"state": "Nayarit",
+				"country": "Mexico",
+				"count": 44
+			}, {
+				"city": "Nanjing",
+				"state": "Jiangsu",
+				"country": "China",
+				"count": 186
+			}, {
+				"city": "Nanning",
+				"state": "Guangxi",
+				"country": "China",
+				"count": 74
+			}, {
+				"city": "Naples",
+				"state": "Florida",
+				"country": "United States",
+				"count": 47
+			}, {
+				"city": "Nashville",
+				"state": "Tennessee",
+				"country": "United States",
+				"count": 183
+			}, {
+				"city": "National Harbor",
+				"state": "Maryland",
+				"country": "United States",
+				"count": 29
+			}, {
+				"city": "New Orleans",
+				"state": "Louisiana",
+				"country": "United States",
+				"count": 78
+			}, {
+				"city": "New York",
+				"state": "New York",
+				"country": "United States",
+				"count": 46
+			}, {
+				"city": "Newport Beach",
+				"state": "California",
+				"country": "United States",
+				"count": 29
+			}, {
+				"city": "Orlando",
+				"state": "Florida",
+				"country": "United States",
+				"count": 318
+			}, {
+				"city": "Palm Beach",
+				"state": "Aruba",
+				"country": "Aruba",
+				"count": 37
+			}, {
+				"city": "Park City",
+				"state": "Utah",
+				"country": "United States",
+				"count": 43
+			}, {
+				"city": "Perth",
+				"state": "Western Australia",
+				"country": "Australia",
+				"count": 44
+			}, {
+				"city": "Philadelphia",
+				"state": "Pennsylvania",
+				"country": "United States",
+				"count": 34
+			}, {
+				"city": "Phoenix",
+				"state": "Arizona",
+				"country": "United States",
+				"count": 164
+			}, {
+				"city": "Puerto Vallarta",
+				"state": "Jalisco",
+				"country": "Mexico",
+				"count": 35
+			}, {
+				"city": "Puerto Vallarta",
+				"state": "Nayarit",
+				"country": "Mexico",
+				"count": 44
+			}, {
+				"city": "Qatar",
+				"state": "Qatar",
+				"country": "Qatar",
+				"count": 27
+			}, {
+				"city": "Qingdao",
+				"state": "Shandong",
+				"country": "China",
+				"count": 157
+			}, {
+				"city": "Qinhuangdao",
+				"state": "Hebei",
+				"country": "China",
+				"count": 28
+			}, {
+				"city": "Riyadh",
+				"state": "Saudi Arabia",
+				"country": "Saudi Arabia",
+				"count": 127
+			}, {
+				"city": "Saint Louis",
+				"state": "Missouri",
+				"country": "United States",
+				"count": 68
+			}, {
+				"city": "Saint Petersburg",
+				"state": "Florida",
+				"country": "United States",
+				"count": 36
+			}, {
+				"city": "San Antonio",
+				"state": "Texas",
+				"country": "United States",
+				"count": 84
+			}, {
+				"city": "San Diego",
+				"state": "California",
+				"country": "United States",
+				"count": 69
+			}, {
+				"city": "San Jose del Cabo",
+				"state": "Baja California Sur",
+				"country": "Mexico",
+				"count": 45
+			}, {
+				"city": "San Juan",
+				"state": "Puerto Rico",
+				"country": "United States",
+				"count": 68
+			}, {
+				"city": "Santa Barbara",
+				"state": "California",
+				"country": "United States",
+				"count": 44
+			}, {
+				"city": "Sanya Yalong Bay",
+				"state": "Hainan",
+				"country": "China",
+				"count": 45
+			}, {
+				"city": "Sanya",
+				"state": "Hainan",
+				"country": "China",
+				"count": 117
+			}, {
+				"city": "Sarasota",
+				"state": "Florida",
+				"country": "United States",
+				"count": 51
+			}, {
+				"city": "Savannah",
+				"state": "Georgia",
+				"country": "United States",
+				"count": 43
+			}, {
+				"city": "Scottsdale",
+				"state": "Arizona",
+				"country": "United States",
+				"count": 158
+			}, {
+				"city": "Seoul",
+				"state": "Seoul",
+				"country": "Korea, Republic of",
+				"count": 27
+			}, {
+				"city": "Shanghai",
+				"state": "Shanghai",
+				"country": "China",
+				"count": 372
+			}, {
+				"city": "Shenyang",
+				"state": "Liaoning",
+				"country": "China",
+				"count": 28
+			}, {
+				"city": "Shenzhen",
+				"state": "Guangdong",
+				"country": "China",
+				"count": 234
+			}, {
+				"city": "Singapore",
+				"state": "Singapore",
+				"country": "Singapore",
+				"count": 78
+			}, {
+				"city": "St George",
+				"state": "Bermuda",
+				"country": "Bermuda",
+				"count": 34
+			}, {
+				"city": "Suzhou",
+				"state": "Jiangsu",
+				"country": "China",
+				"count": 94
+			}, {
+				"city": "Taipei",
+				"state": "Taipei",
+				"country": "Taiwan",
+				"count": 31
+			}, {
+				"city": "Tampa",
+				"state": "Florida",
+				"country": "United States",
+				"count": 86
+			}, {
+				"city": "Tianjin",
+				"state": "Tianjin",
+				"country": "China",
+				"count": 72
+			}, {
+				"city": "Tokyo",
+				"state": "Tokyo",
+				"country": "Japan",
+				"count": 38
+			}, {
+				"city": "Truckee",
+				"state": "California",
+				"country": "United States",
+				"count": 41
+			}, {
+				"city": "Tucson",
+				"state": "Arizona",
+				"country": "United States",
+				"count": 47
+			}, {
+				"city": "United States",
+				"state": "United States",
+				"country": "United States",
+				"count": 74
+			}, {
+				"city": "Vienna",
+				"state": "Austria",
+				"country": "Austria",
+				"count": 48
+			}, {
+				"city": "Wailea",
+				"state": "Hawaii",
+				"country": "United States",
+				"count": 37
+			}, {
+				"city": "Washington",
+				"state": "District of Columbia",
+				"country": "United States",
+				"count": 41
+			}, {
+				"city": "Wenzhou",
+				"state": "Zhejiang",
+				"country": "China",
+				"count": 149
+			}, {
+				"city": "West Hollywood",
+				"state": "California",
+				"country": "United States",
+				"count": 34
+			}, {
+				"city": "Wien",
+				"state": "Wien",
+				"country": "Austria",
+				"count": 37
+			}, {
+				"city": "Wuhan",
+				"state": "Hubei",
+				"country": "China",
+				"count": 75
+			}, {
+				"city": "Xiamen",
+				"state": "Fujian",
+				"country": "China",
+				"count": 138
+			}, {
+				"city": "Xian",
+				"state": "Shaanxi",
+				"country": "China",
+				"count": 44
+			}, {
+				"city": "Yancheng",
+				"state": "Jiangsu",
+				"country": "China",
+				"count": 27
+			}, {
+				"city": "Yinchuan",
+				"state": "Ningxia",
+				"country": "China",
+				"count": 27
+			}, {
+				"city": "Zi'an",
+				"state": "Shaanxi",
+				"country": "China",
+				"count": 57
+			}, {
+				"city": null,
+				"state": "Abu Dhabi",
+				"country": "United Arab Emirates",
+				"count": 133
+			}, {
+				"city": null,
+				"state": "Algeria",
+				"country": "Algeria",
+				"count": 40
+			}, {
+				"city": null,
+				"state": "Anhui",
+				"country": "China",
+				"count": 34
+			}, {
+				"city": null,
+				"state": "Aruba",
+				"country": "Aruba",
+				"count": 57
+			}, {
+				"city": null,
+				"state": "BATI AVUSTRALYA",
+				"country": "Australia",
+				"count": 39
+			}, {
+				"city": null,
+				"state": "Baja California Sur",
+				"country": "Mexico",
+				"count": 47
+			}, {
+				"city": null,
+				"state": "Beijing",
+				"country": "China",
+				"count": 325
+			}, {
+				"city": null,
+				"state": "Bermuda",
+				"country": "Bermuda",
+				"count": 34
+			}, {
+				"city": null,
+				"state": "British Columbia",
+				"country": "Canada",
+				"count": 41
+			}, {
+				"city": null,
+				"state": "Central",
+				"country": "Thailand",
+				"count": 52
+			}, {
+				"city": null,
+				"state": "China",
+				"country": "China",
+				"count": 530
+			}, {
+				"city": null,
+				"state": "Chongqing",
+				"country": "China",
+				"count": 61
+			}, {
+				"city": null,
+				"state": "Ciudad De México",
+				"country": "Mexico",
+				"count": 82
+			}, {
+				"city": null,
+				"state": "Doha",
+				"country": "Qatar",
+				"count": 216
+			}, {
+				"city": null,
+				"state": "Dubai",
+				"country": "United Arab Emirates",
+				"count": 444
+			}, {
+				"city": null,
+				"state": "Egypt",
+				"country": "Egypt",
+				"count": 193
+			}, {
+				"city": null,
+				"state": "Faro",
+				"country": "Portugal",
+				"count": 36
+			}, {
+				"city": null,
+				"state": "Fujian",
+				"country": "China",
+				"count": 164
+			}, {
+				"city": null,
+				"state": "Grand Cayman",
+				"country": "Cayman Islands",
+				"count": 47
+			}, {
+				"city": null,
+				"state": "Guangdong",
+				"country": "China",
+				"count": 566
+			}, {
+				"city": null,
+				"state": "Guangxi",
+				"country": "China",
+				"count": 74
+			}, {
+				"city": null,
+				"state": "Guizhou",
+				"country": "China",
+				"count": 40
+			}, {
+				"city": null,
+				"state": "Hainan",
+				"country": "China",
+				"count": 196
+			}, {
+				"city": null,
+				"state": "Hebei",
+				"country": "China",
+				"count": 48
+			}, {
+				"city": null,
+				"state": "Henan",
+				"country": "China",
+				"count": 96
+			}, {
+				"city": null,
+				"state": "Hong Kong",
+				"country": "Hong Kong",
+				"count": 119
+			}, {
+				"city": null,
+				"state": "Hubei",
+				"country": "China",
+				"count": 66
+			}, {
+				"city": null,
+				"state": "Hunan",
+				"country": "China",
+				"count": 88
+			}, {
+				"city": null,
+				"state": "India",
+				"country": "India",
+				"count": 47
+			}, {
+				"city": null,
+				"state": "Indonesia",
+				"country": "Indonesia",
+				"count": 103
+			}, {
+				"city": null,
+				"state": "Istanbul",
+				"country": "Turkey",
+				"count": 116
+			}, {
+				"city": null,
+				"state": "Jalisco",
+				"country": "Mexico",
+				"count": 35
+			}, {
+				"city": null,
+				"state": "Jiangsu",
+				"country": "China",
+				"count": 348
+			}, {
+				"city": null,
+				"state": "Kazakhstan",
+				"country": "Kazakhstan",
+				"count": 35
+			}, {
+				"city": null,
+				"state": "Korea, Republic of",
+				"country": "Korea, Republic of",
+				"count": 27
+			}, {
+				"city": null,
+				"state": "LONDON",
+				"country": "United Kingdom",
+				"count": 121
+			}, {
+				"city": null,
+				"state": "Liaoning",
+				"country": "China",
+				"count": 31
+			}, {
+				"city": null,
+				"state": "Macao",
+				"country": "Macao",
+				"count": 52
+			}, {
+				"city": null,
+				"state": "Malaysia",
+				"country": "Malaysia",
+				"count": 35
+			}, {
+				"city": null,
+				"state": "Maldives",
+				"country": "Maldives",
+				"count": 77
+			}, {
+				"city": null,
+				"state": "Mexico",
+				"country": "Mexico",
+				"count": 36
+			}, {
+				"city": null,
+				"state": "Nayarit",
+				"country": "Mexico",
+				"count": 44
+			}, {
+				"city": null,
+				"state": "Nigeria",
+				"country": "Nigeria",
+				"count": 46
+			}, {
+				"city": null,
+				"state": "Ningxia",
+				"country": "China",
+				"count": 27
+			}, {
+				"city": null,
+				"state": "ONT",
+				"country": "Canada",
+				"count": 50
+			}, {
+				"city": null,
+				"state": "Osaka",
+				"country": "Japan",
+				"count": 38
+			}, {
+				"city": null,
+				"state": "QUEENSLAND",
+				"country": "Australia",
+				"count": 43
+			}, {
+				"city": null,
+				"state": "Quintana Roo",
+				"country": "Mexico",
+				"count": 69
+			}, {
+				"city": null,
+				"state": "Saudi Arabia",
+				"country": "Saudi Arabia",
+				"count": 179
+			}, {
+				"city": null,
+				"state": "Shaanxi",
+				"country": "China",
+				"count": 82
+			}, {
+				"city": null,
+				"state": "Shandong",
+				"country": "China",
+				"count": 185
+			}, {
+				"city": null,
+				"state": "Shanghai",
+				"country": "China",
+				"count": 352
+			}, {
+				"city": null,
+				"state": "Sichuan",
+				"country": "China",
+				"count": 151
+			}, {
+				"city": null,
+				"state": "Singapore",
+				"country": "Singapore",
+				"count": 75
+			}, {
+				"city": null,
+				"state": "Taipei City",
+				"country": "Taiwan",
+				"count": 32
+			}, {
+				"city": null,
+				"state": "Tianjin",
+				"country": "China",
+				"count": 78
+			}, {
+				"city": null,
+				"state": "Tokyo",
+				"country": "Japan",
+				"count": 36
+			}, {
+				"city": null,
+				"state": "United Arab Emirates",
+				"country": "United Arab Emirates",
+				"count": 57
+			}, {
+				"city": null,
+				"state": "United Kingdom",
+				"country": "United Kingdom",
+				"count": 130
+			}, {
+				"city": null,
+				"state": "United States",
+				"country": "United States",
+				"count": 319
+			}, {
+				"city": null,
+				"state": "VICTORIA",
+				"country": "Australia",
+				"count": 71
+			}, {
+				"city": null,
+				"state": "Viet Nam",
+				"country": "Viet Nam",
+				"count": 28
+			}, {
+				"city": null,
+				"state": "Yunnan",
+				"country": "China",
+				"count": 31
+			}, {
+				"city": null,
+				"state": "Zhejiang",
+				"country": "China",
+				"count": 172
+			}],
+			"shortlist": [{
+				"city": "Abu Dhabi",
+				"state": "United Arab Emirates",
+				"country": "United Arab Emirates",
+				"count": 128
+			}, {
+				"city": "Albufeira",
+				"state": "Portugal",
+				"country": "Portugal",
+				"count": 36
+			}, {
+				"city": "Amelia Island",
+				"state": "Florida",
+				"country": "United States",
+				"count": 44
+			}, {
+				"city": "Anaheim",
+				"state": "California",
+				"country": "United States",
+				"count": 39
+			}, {
+				"city": "Aqaba",
+				"state": "Aqaba",
+				"country": "Jordan",
+				"count": 33
+			}, {
+				"city": "Aqaba",
+				"state": "Jordan",
+				"country": "Jordan",
+				"count": 33
+			}, {
+				"city": "Aspen",
+				"state": "Colorado",
+				"country": "United States",
+				"count": 75
+			}, {
+				"city": "Atlanta",
+				"state": "Georgia",
+				"country": "United States",
+				"count": 184
+			}, {
+				"city": "Aurora",
+				"state": "Colorado",
+				"country": "United States",
+				"count": 41
+			}, {
+				"city": "Austin",
+				"state": "Texas",
+				"country": "United States",
+				"count": 53
+			}]
+		},
+		"facetList": {}
+	},
+	"languageCounts": {
+		"en-us": {
+			"displayName": "English (US)",
+			"count": 14122
+		}
+	},
+	"request_id": false,
+	"meta_data": {
+		"ResponseMetadata": {
+			"requestId": "00a5979e-f586-44fb-a83f-88f2bfaa62be:APAb7IT8UaM0FESK14F8H2mQjwv7iLgdRA=="
+		}
+	},
+	"locations": []
+}
